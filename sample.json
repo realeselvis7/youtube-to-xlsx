@@ -1,0 +1,1712 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "KE6TVroJIyXMF0ZH_K3ovN2JU9I",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "US",
+    "pageInfo": {
+        "totalResults": 139,
+        "resultsPerPage": 50
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "KWpgvsn2J-cIS60SQfaZWuI5RMw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "NAqLQJuLiVY"
+            },
+            "snippet": {
+                "publishedAt": "2025-05-19T21:25:52Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "¿Cómo agregar productos físicos a tu tienda? 🛍️",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NAqLQJuLiVY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NAqLQJuLiVY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NAqLQJuLiVY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-05-19T21:25:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "No4QZh70gtIRFezrGBqaSkUfZSs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "9pUNe0StLGs"
+            },
+            "snippet": {
+                "publishedAt": "2025-05-19T21:14:00Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "¿Cómo crear un sitio web en Mastertools? 💻",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9pUNe0StLGs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9pUNe0StLGs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9pUNe0StLGs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-05-19T21:14:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Vo8SSwtXY01QTuKiDumNkJleg0k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cIrAnIW47mo"
+            },
+            "snippet": {
+                "publishedAt": "2025-05-19T21:09:03Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "¿Cómo configurar  Mercado Pago en  Mastertools? 💵",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cIrAnIW47mo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cIrAnIW47mo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cIrAnIW47mo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-05-19T21:09:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tg4v0QCL4SMHbuVxGZ_s7FoOLmQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YNypU0vJGSE"
+            },
+            "snippet": {
+                "publishedAt": "2025-05-13T22:06:01Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "🛍️ ¿Cómo editar el botón de variación a tus productos?",
+                "description": "Vendes productos con variaciones como tallas, colores o estilos? 🛍️ En este tutorial te enseñamos paso a paso cómo cambiar ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YNypU0vJGSE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YNypU0vJGSE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YNypU0vJGSE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-05-13T22:06:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0e8igtNmvx3CuPFWO2F3gVmiTOk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "AxYfM7wCRHY"
+            },
+            "snippet": {
+                "publishedAt": "2025-05-06T16:19:29Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "¿Cómo crear un área de miembros en Mastertools? 👥",
+                "description": "Quieres vender cursos online o entregar contenido exclusivo a tus clientes? En este tutorial te enseño cómo crear un área de ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AxYfM7wCRHY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AxYfM7wCRHY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AxYfM7wCRHY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-05-06T16:19:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VCMghu4JA3XfYPDAneugxwDXWIk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yBBhaZwioa4"
+            },
+            "snippet": {
+                "publishedAt": "2025-05-06T16:01:42Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "¿Cómo integrar Mastertools con Mastershop? 🛍️",
+                "description": "En este tutorial te mostramos cómo integrar MasterTools con MasterShop, la plataforma logística que automatiza tus envíos, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yBBhaZwioa4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yBBhaZwioa4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yBBhaZwioa4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-05-06T16:01:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "I4AbIwLc34KHXjMvH_ZfZxSfaUE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5DK8mkQj2GY"
+            },
+            "snippet": {
+                "publishedAt": "2025-05-06T15:42:44Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "¿Cómo es el Funcionamiento de los Widgets?  Generación de leads 👥",
+                "description": "Quieres captar más prospectos de forma automática en tu página web o embudo de ventas? En este video te explico cómo ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5DK8mkQj2GY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5DK8mkQj2GY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5DK8mkQj2GY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-05-06T15:42:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-nXSeeNde-AwvHLcwm7PhOOuzmI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "d2VqQJuQRdU"
+            },
+            "snippet": {
+                "publishedAt": "2025-05-06T15:16:20Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "¿Cómo habilitar el método de pago con transferencia bancaria? 💸",
+                "description": "Quieres ofrecer a tus clientes la opción de pagar por transferencia bancaria en tu embudo de ventas? En este tutorial te enseño, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d2VqQJuQRdU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d2VqQJuQRdU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d2VqQJuQRdU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-05-06T15:16:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "vVYz1CIb4F-kxaiPuyXJrfM6sS4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2p_-tPYYgoM"
+            },
+            "snippet": {
+                "publishedAt": "2025-04-29T15:27:17Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "¿Cómo configurar los envíos de físicos en Mastertools? 📤",
+                "description": "En este tutorial te muestro paso a paso cómo configurar los métodos de envío en tu tienda online con MasterTools.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2p_-tPYYgoM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2p_-tPYYgoM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2p_-tPYYgoM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-04-29T15:27:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5VUy_GFyWE2sNQ0uv3de-xW5Rpw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XA5ql86ZXbQ"
+            },
+            "snippet": {
+                "publishedAt": "2025-04-29T15:09:48Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "¿Cómo aplicar descuentos a tus productos físicos? 🛍️💰",
+                "description": "Quieres aumentar tus ventas aplicando ofertas irresistibles? En este tutorial te enseño paso a paso cómo aplicar descuentos a ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XA5ql86ZXbQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XA5ql86ZXbQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XA5ql86ZXbQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-04-29T15:09:48Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1PNurKGXtukp1wFA2aPg3DjmKlw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-OjQWRzITW0"
+            },
+            "snippet": {
+                "publishedAt": "2025-04-29T15:02:34Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "¿Cómo crear un menú, submenú y megamenú ?",
+                "description": "Quieres que tu sitio web se vea profesional y sea fácil de navegar? En este tutorial te enseño el paso a paso para crear un menú ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-OjQWRzITW0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-OjQWRzITW0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-OjQWRzITW0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-04-29T15:02:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-nL95HhR565T-n4TfQop6JTSJ8A",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Pc2PiCyNf38"
+            },
+            "snippet": {
+                "publishedAt": "2025-04-29T14:35:52Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "¿Cómo crear un blog en Mastertools?🕛",
+                "description": "Tener un blog te ayuda a posicionarte como experto en tu tema, atraer visitas a tu sitio y conectar con tu comunidad. ✓ Ideal para ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Pc2PiCyNf38/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Pc2PiCyNf38/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Pc2PiCyNf38/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-04-29T14:35:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dmwjTBewJav97hY3shvbXVknqiI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "G4XH7FU04ac"
+            },
+            "snippet": {
+                "publishedAt": "2025-02-18T23:00:52Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "Funcionamiento de los Widgets - Básico 💻",
+                "description": "Descubre cómo aprovechar al máximo los widgets de MasterTools para personalizar y optimizar tu página web de manera ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/G4XH7FU04ac/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/G4XH7FU04ac/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/G4XH7FU04ac/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-02-18T23:00:52Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "kuSeFkUtHHlANFjfACs8_wFRoaI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sOrbUb1Inck"
+            },
+            "snippet": {
+                "publishedAt": "2025-02-18T22:13:25Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "¿Cómo crear combos de productos variables en Mastertools? 🛍️",
+                "description": "Quieres aumentar el valor de tu carrito de compras y mejorar la experiencia de tus clientes? En este tutorial, te enseñamos cómo ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sOrbUb1Inck/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sOrbUb1Inck/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sOrbUb1Inck/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-02-18T22:13:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "aCDgQ79V3SjZxh3DZt7Df9lIiyI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2YhFZDwrcD4"
+            },
+            "snippet": {
+                "publishedAt": "2025-02-17T15:58:37Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "¿Cómo optimizar el SEO de un funnel en Mastertools? 🔍",
+                "description": "Quieres que tu funnel atraiga más tráfico? En este tutorial te enseñaremos cómo mejorar el SEO de tu funnel a partir de palabras ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2YhFZDwrcD4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2YhFZDwrcD4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2YhFZDwrcD4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-02-17T15:58:37Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4dTV3F1NKkXCyBGv9KUz86I56uQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rSgQysILklg"
+            },
+            "snippet": {
+                "publishedAt": "2025-02-13T20:48:00Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "📅¿Cómo funciona el sistema de agendamiento en Mastertools? ⏱️",
+                "description": "Gestionar tus citas de manera fácil y automatizada ✨ En este tutorial aprenderás a utilizar la herramienta de Citas en el CRM de ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rSgQysILklg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rSgQysILklg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rSgQysILklg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-02-13T20:48:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "HIPqBA2vo97K3hKHonGsF6nPvdg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sCDiU5btyRs"
+            },
+            "snippet": {
+                "publishedAt": "2025-02-13T18:03:24Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "¿Cómo dar permisos como administrador en Mastertools?",
+                "description": "Aprende a gestionar accesos de forma segura y eficiente para que tu equipo pueda trabajar sin límites También puedes ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sCDiU5btyRs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sCDiU5btyRs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sCDiU5btyRs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-02-13T18:03:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-nD0F6fraDp2D9aTYzVEb5FZkGI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qrGFBTjVHl4"
+            },
+            "snippet": {
+                "publishedAt": "2025-02-12T21:06:30Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "¿Cómo crear un enlace de ancla en tu funnel de forma sencilla? ⚓",
+                "description": "En este tutorial aprenderás a agregar enlaces de ancla para que los usuarios puedan navegar fácilmente dentro de tu funnel.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qrGFBTjVHl4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qrGFBTjVHl4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qrGFBTjVHl4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-02-12T21:06:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1SuBd4gCinznkCYcsmwNvLCVt8E",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MpnwrUBByac"
+            },
+            "snippet": {
+                "publishedAt": "2025-02-12T17:29:28Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "¿Cómo crear combos de un producto variable y uno simple? - Shoptool 🛒",
+                "description": "Quieres vender más con combos de productos? En este tutorial te mostramos paso a paso cómo crear combos simples y combos ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MpnwrUBByac/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MpnwrUBByac/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MpnwrUBByac/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2025-02-12T17:29:28Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "V9Fyve8m2krZ151j6eHDOXBH-9k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Jt6EwISWR1Q"
+            },
+            "snippet": {
+                "publishedAt": "2024-12-04T22:49:45Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "¿Cómo tomar una plantilla de MASTERTOOLS y adecuarla a tu país?",
+                "description": "Encuentra el código en el siguiente artículo ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Jt6EwISWR1Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Jt6EwISWR1Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Jt6EwISWR1Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-12-04T22:49:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Vobg7tsewDD6HNoJ4_fVcl7P0eg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RhBA5WKPptQ"
+            },
+            "snippet": {
+                "publishedAt": "2024-12-03T23:04:08Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "¿Cómo hacer un anuncio temporal en MasterTools? LinkTool",
+                "description": "Sabías que podías realizar anuncios temporales en tu embudo o sitio web? ¡Este video te enseña cómo hacerlo de forma rápida ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RhBA5WKPptQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RhBA5WKPptQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RhBA5WKPptQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-12-03T23:04:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "iUqlaWraCaBM6NCGWKESlMtFBf8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yBa4P9ju1mw"
+            },
+            "snippet": {
+                "publishedAt": "2024-11-30T16:37:09Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "Distribución de los espacios y márgenes de mi Funnel en MasterTools",
+                "description": "Aún no usas MasterTools? Activa tu cuenta haciendo clic aquí   https://mstr.ly/mastertools-unirme30 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yBa4P9ju1mw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yBa4P9ju1mw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yBa4P9ju1mw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-11-30T16:37:09Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "RMTcd-Mg6WwIgMWeIrPaWmeJrB0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cPUISQDdgAE"
+            },
+            "snippet": {
+                "publishedAt": "2024-11-28T16:34:38Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "¿Cómo adaptar mi funnel a la versión Móvil?",
+                "description": "Aún no usas MasterTools? Activa tu cuenta haciendo clic aquí  https://mstr.ly/mastertools-unirme7 ✓ ¡Optimiza tu funnel para ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cPUISQDdgAE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cPUISQDdgAE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cPUISQDdgAE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-11-28T16:34:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jFfI5XpYMr_SNlYksLZS44q3Ng4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xKFG-4-n2Qg"
+            },
+            "snippet": {
+                "publishedAt": "2024-11-28T16:34:24Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "¿Cómo hacer CTA&#39;s superpuestos en LinkTool? | Haz un llamado a la acción en tu página.",
+                "description": "Aún no usas MasterTools? Activa tu cuenta haciendo clic aquí  https://mstr.ly/mastertools-unirme-yo.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xKFG-4-n2Qg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xKFG-4-n2Qg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xKFG-4-n2Qg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-11-28T16:34:24Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ijHhP059UaEq-IQhreaPGs8kx3c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KsFaZQpSwf0"
+            },
+            "snippet": {
+                "publishedAt": "2024-11-27T16:12:30Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "Shoptool - Configuración avanzada de la tienda.",
+                "description": "Aún no usas MasterTools? Activa tu cuenta haciendo clic aquí  https://mstr.ly/mastertools-unirme19 ✓ ¡Aprende a configurar tu ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KsFaZQpSwf0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KsFaZQpSwf0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KsFaZQpSwf0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-11-27T16:12:30Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "XAyRGqRU0DnhTFttQ-ZXcdV-e8k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8VXCoSYu0Ek"
+            },
+            "snippet": {
+                "publishedAt": "2024-11-27T16:12:49Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "¿Cómo agregar imágenes a mi Funnel y configurar efectos en MasterTools?",
+                "description": "Aún no usas MasterTools? Activa tu prueba haciendo clic aquí  https://mstr.ly/mastertools-unirme18 ✓ En este tutorial, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8VXCoSYu0Ek/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8VXCoSYu0Ek/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8VXCoSYu0Ek/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-11-27T16:12:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "rW3O5wPxbHmY0ytHmwOYVBp7CIA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "OUo7yHSECg0"
+            },
+            "snippet": {
+                "publishedAt": "2024-11-22T20:38:56Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "Shoptool - ¿Cómo configurar el carrito de tu funnel? 🛒",
+                "description": "Aún no usas MasterTools? Activa tu cuenta haciendo clic aquí   https://mstr.ly/mastertools-unirme29 ✓ En este tutorial te ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OUo7yHSECg0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OUo7yHSECg0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OUo7yHSECg0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-11-22T20:38:56Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "GftFQLJfDH8_TSOTPgf-dWb-Fs8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Dzu_H80gYfs"
+            },
+            "snippet": {
+                "publishedAt": "2024-09-09T17:46:46Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "¿Cómo crear segmentos en EmailTool? 📧",
+                "description": "En este tutorial te enseñaremos cómo crear segmentos y agrupar contactos estratégicamente para mejorar tus resultados.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Dzu_H80gYfs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Dzu_H80gYfs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Dzu_H80gYfs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-09-09T17:46:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2kOzO3RYMRjYkANKTPy9A76K5PU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "bIuyJVM5gg8"
+            },
+            "snippet": {
+                "publishedAt": "2024-09-09T17:40:20Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "¿Cómo insertar etiquetas de personalización en tu campaña? | EmailTool",
+                "description": "Con EmailTool, puedes utilizar etiquetas de personalización para crear mensajes que realmente conecten con tus contactos y ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bIuyJVM5gg8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bIuyJVM5gg8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bIuyJVM5gg8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-09-09T17:40:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bMQD8hrxUD8l43P9FMDK9m9kbCM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "y8EDXLfEHJA"
+            },
+            "snippet": {
+                "publishedAt": "2024-08-16T13:08:07Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "📦 Cómo DEJAR de BOTAR TU DINERO en DEVOLUCIONES Dropshipper gracias a Mastershop ⚡ | Lanzamiento",
+                "description": "Si te gustaría participar en la Presentación Oficial de MasterShop: La plataforma con la que los Dropshippers son más rentables, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/y8EDXLfEHJA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/y8EDXLfEHJA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/y8EDXLfEHJA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-08-16T13:08:07Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WVcUcIPtjHYo-LNTOUOQiUSTe4Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QAH7Huon2CQ"
+            },
+            "snippet": {
+                "publishedAt": "2024-07-11T21:51:00Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "¿Cómo eliminar proyectos e integraciones en ConnecTool? | Herramientas para DROPSHIPPING",
+                "description": "Aún no usas MasterTools? Activa tu cuenta haciendo clic aquí  https://mstr.ly/mastertools-unirme-youtube ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QAH7Huon2CQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QAH7Huon2CQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QAH7Huon2CQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-07-11T21:51:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "FT0E_n-UjsVoM_3ls00nzok7X28",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_-Mm43hOGkM"
+            },
+            "snippet": {
+                "publishedAt": "2024-07-11T21:44:39Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "¿Cómo AUTOMATIZAR pedidos de un COMBO de productos diferentes?| Aumenta la facturación de tu TIENDA",
+                "description": "Aún no usas MasterTools? Activa tu cuenta haciendo clic aquí  https://mstr.ly/mastertools-unirme-youtube ✓ ¡Dropshippers, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_-Mm43hOGkM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_-Mm43hOGkM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_-Mm43hOGkM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-07-11T21:44:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_kX31KO9XKSdk9YxwUQQHgCM3po",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "V8qUXfeHjfM"
+            },
+            "snippet": {
+                "publishedAt": "2024-07-11T21:14:02Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "¿Cómo relacionar y sincronizar COMBOS con varias unidades del mismo producto? | AUTOMATIZA pedidos",
+                "description": "Aún no usas MasterTools? Activa tu cuenta haciendo clic aquí  https://mstr.ly/mastertools-unirme-youtube ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/V8qUXfeHjfM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/V8qUXfeHjfM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/V8qUXfeHjfM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-07-11T21:14:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "QoRk4DM50jQT-hmo1Kzr55eV450",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4hVvPFvsceE"
+            },
+            "snippet": {
+                "publishedAt": "2024-07-11T16:18:34Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "¿Cómo hacerle SEGUIMIENTO a la sincronización de pedidos? | AUTOMATIZACIÓN de ordenes E-COMMERCE",
+                "description": "Aún no usas MasterTools? Activa tu cuenta haciendo clic aquí  https://mstr.ly/mastertools-unirme-youtube ✓ ¿Te gustaría saber ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4hVvPFvsceE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4hVvPFvsceE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4hVvPFvsceE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-07-11T16:18:34Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "StWb30dRVZwNbfbILFU9gREyNQg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "EaSBcfqw8Qk"
+            },
+            "snippet": {
+                "publishedAt": "2024-07-10T21:51:05Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "¿Cómo crear COMBOS de varias unidades del mismo producto? | Vender más cantidad para ecommerce",
+                "description": "Aún no usas MasterTools? Activa tu cuenta haciendo clic aquí  https://mstr.ly/mastertools-unirme9 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EaSBcfqw8Qk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EaSBcfqw8Qk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EaSBcfqw8Qk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-07-10T21:51:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "AASV-gUW0md2JXf31afjavB3uj8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6fDWdmGJY8k"
+            },
+            "snippet": {
+                "publishedAt": "2024-07-10T21:43:58Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "¿Cómo crear COMBOS de distintos productos para hacer DROPSHIPPING? | Vender combos en Dropshipping",
+                "description": "Aún no usas MasterTools? Activa tu cuenta haciendo clic aquí   https://mstr.ly/mastertools-unirme16 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6fDWdmGJY8k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6fDWdmGJY8k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6fDWdmGJY8k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-07-10T21:43:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "1AzHl_o5vl-CNuJbOrUp93S3Ek0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6y4uTEfqO8w"
+            },
+            "snippet": {
+                "publishedAt": "2024-02-01T02:43:04Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "💣Cómo reventar tus ventas en 2024 con Shiipy + MasterTools | Nueva Alianza",
+                "description": "En este live conocerás los beneficios de la alianza Shiipy + MasterTools para que generes más ingresos por ventas de productos ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6y4uTEfqO8w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6y4uTEfqO8w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6y4uTEfqO8w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-02-01T02:43:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "iVMzv3cth2NOTPBOdUX_xaay0sY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "TqqCGNV6oY0"
+            },
+            "snippet": {
+                "publishedAt": "2024-01-19T01:28:53Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "🚀 Cómo reventar tus ventas en 2024 con Dropi + MasterTools",
+                "description": "En este live conocerás los beneficios de la alianza Dropi + MasterTools para que generes más ingresos por ventas de productos ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TqqCGNV6oY0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TqqCGNV6oY0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TqqCGNV6oY0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2024-01-19T01:28:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "9p50AWw5uOCOmjm3h0Bd4s07iO0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FsGmS3Z9ZRs"
+            },
+            "snippet": {
+                "publishedAt": "2023-11-18T23:00:18Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "Mi Experiencia con MasterTools | Juan David (Caso Real)",
+                "description": "Conoce la historia de Juan David, uno de nuestros usuarios de MasterTools by Bemaster Escucha cómo ha sido su experiencia y ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FsGmS3Z9ZRs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FsGmS3Z9ZRs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FsGmS3Z9ZRs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-11-18T23:00:18Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "dHxAQH19mtM8p8xnJnbNxO1dm8U",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7tfhUfL2Jhc"
+            },
+            "snippet": {
+                "publishedAt": "2023-11-18T20:00:03Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "Opinión de Karen Sobre El Software de MasterTools.",
+                "description": "Esta es la opinión de Karen, una de nuestras usuarias de MasterTools by Bemaster Escucha cómo ha sido su experiencia y ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7tfhUfL2Jhc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7tfhUfL2Jhc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7tfhUfL2Jhc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-11-18T20:00:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WfXthxEs2_05gd6-n2hO8kdT2Zg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "X_MDbByNlQg"
+            },
+            "snippet": {
+                "publishedAt": "2023-11-18T19:00:20Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "Esta es mi Experiencia con MasterTools | Felipe (Mi Opinión)",
+                "description": "Esta es la historia de Felipe de uno de nuestros usuarios de MasterTools by Bemaster Escucha cómo ha sido su experiencia y ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/X_MDbByNlQg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/X_MDbByNlQg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/X_MDbByNlQg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-11-18T19:00:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BwnXD4cRECw_DaWesQg8n9OgyC0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "aJKrFgfxzPM"
+            },
+            "snippet": {
+                "publishedAt": "2023-11-18T18:00:01Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "Mi Opinión con MasterTools | Bayron (Caso Real)",
+                "description": "Esta es la experiencia de uno de nuestros usuarios de MasterTools by Bemaster Escucha su historia y cuéntanos qué opinas en ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aJKrFgfxzPM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aJKrFgfxzPM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aJKrFgfxzPM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-11-18T18:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "QYV0c7wN3PMMQQpWwwlVSO4RiMI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "oCo8akycs7g"
+            },
+            "snippet": {
+                "publishedAt": "2023-11-18T16:21:39Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "MasterTools - Kevin Habla De Su Experiencia Con El Software (Actualizado)",
+                "description": "Esta es la historia de Kevin uno de nuestros usuarios de MasterTools by Bemaster Escucha cómo ha sido su experiencia y ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oCo8akycs7g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oCo8akycs7g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oCo8akycs7g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-11-18T16:21:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "LTOjX6zqhDgGL6B0Vb_SQibsvZA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "qmH6GM9qxSk"
+            },
+            "snippet": {
+                "publishedAt": "2023-11-17T23:41:42Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "Mi Experiencia con MasterTools | John Pérez (Mi opinión)",
+                "description": "Esta es la historia de uno de nuestros usuarios de MasterTools by Bemaster Escucha cómo ha sido su experiencia y cuéntanos ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qmH6GM9qxSk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qmH6GM9qxSk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qmH6GM9qxSk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-11-17T23:41:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "TIDPd2FRjYhZKDOdjHIm8Q5VMbI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8gb084ylnfE"
+            },
+            "snippet": {
+                "publishedAt": "2023-11-17T21:23:05Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "Esta es mi Experiencia con MasterTools | Jhon Castaño(Caso Real)",
+                "description": "Esta es la historia de uno de nuestros usuarios de MasterTools by Bemaster Escucha cómo ha sido su experiencia y cuéntanos ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8gb084ylnfE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8gb084ylnfE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8gb084ylnfE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-11-17T21:23:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "r-wY5G3UBjOljNHYcq9kxDDdAiU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "8BA7lHVuAjI"
+            },
+            "snippet": {
+                "publishedAt": "2023-11-17T00:52:43Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "Mi Experiencia con MasterTools | Oscar  (Mi opinión)",
+                "description": "Esta es la historia de uno de nuestros usuarios de MasterTools by Bemaster Escucha cómo ha sido su experiencia y cuéntanos ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8BA7lHVuAjI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8BA7lHVuAjI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8BA7lHVuAjI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-11-17T00:52:43Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_WbCb6SRfcpSifhgVMQe3GX2IhI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MTEgSwqs0o0"
+            },
+            "snippet": {
+                "publishedAt": "2023-11-11T12:09:49Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "CONNECTOOL | Cómo Importar Productos de Dropi en MasterTools y Automatizar los Pedidos Generados",
+                "description": "En este live aprenderás a importar productos desde Dropi en la Tienda de MasterTools! Con esta integración podrás traer toda ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MTEgSwqs0o0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MTEgSwqs0o0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MTEgSwqs0o0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-11-11T12:09:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "24miWU0vf8dhPLwsQxcInumIdCo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YGzgotfBPNE"
+            },
+            "snippet": {
+                "publishedAt": "2023-09-25T19:26:12Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "¿CÓMO CONECTAR ENVIOCLICK CON MASTERTOOLS?",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YGzgotfBPNE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YGzgotfBPNE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YGzgotfBPNE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-09-25T19:26:12Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "XJmPeoeeg4ti4r8IYgfrnBzHWHM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VukGueKfPuk"
+            },
+            "snippet": {
+                "publishedAt": "2023-09-20T16:28:29Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "¿COMO IMPORTAR UN PRODUCTO DESDE DROPI A LA TIENDA DE MASTERTOOLS?",
+                "description": "En este Tootorial aprenderá el paso a paso de ¿Cómo importar productos directamente desde Dropi a la tienda de MasterTools ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VukGueKfPuk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VukGueKfPuk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VukGueKfPuk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-09-20T16:28:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "AEZVgkD4PVawKrJd4oBtN8vvxm8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_D-Au-7xJV8"
+            },
+            "snippet": {
+                "publishedAt": "2023-09-20T15:58:09Z",
+                "channelId": "UCC9h3hj4YlKnnP_9UB4UP3g",
+                "title": "¿COMO UTILIZAR UNA PLANTILLA DE INTEGRACION DE CONNECTOOL?",
+                "description": "En el siguiente Tootorial aprenderás a ¿Cómo Utilizar una plantilla de integración de ConnecTool' (Dropi)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_D-Au-7xJV8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_D-Au-7xJV8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_D-Au-7xJV8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MasterTools",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-09-20T15:58:09Z"
+            }
+        }
+    ]
+}

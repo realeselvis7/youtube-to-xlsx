@@ -1,0 +1,2885 @@
+[
+  {
+    "id": "NAqLQJuLiVY",
+    "title": "¿Cómo agregar productos físicos a tu tienda? 🛍️",
+    "publishedAt": "2025-05-19T21:25:52Z",
+    "duration": "PT9M27S",
+    "duration_seconds": 567,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "9pUNe0StLGs",
+    "title": "¿Cómo crear un sitio web en Mastertools? 💻",
+    "publishedAt": "2025-05-19T21:14:00Z",
+    "duration": "PT2M44S",
+    "duration_seconds": 164,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "cIrAnIW47mo",
+    "title": "¿Cómo configurar  Mercado Pago en  Mastertools? 💵",
+    "publishedAt": "2025-05-19T21:09:03Z",
+    "duration": "PT5M31S",
+    "duration_seconds": 331,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "YNypU0vJGSE",
+    "title": "🛍️ ¿Cómo editar el botón de variación a tus productos?",
+    "publishedAt": "2025-05-13T22:06:01Z",
+    "duration": "PT4M20S",
+    "duration_seconds": 260,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "AxYfM7wCRHY",
+    "title": "¿Cómo crear un área de miembros en Mastertools? 👥",
+    "publishedAt": "2025-05-06T16:19:29Z",
+    "duration": "PT13M26S",
+    "duration_seconds": 806,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "yBBhaZwioa4",
+    "title": "¿Cómo integrar Mastertools con Mastershop? 🛍️",
+    "publishedAt": "2025-05-06T16:01:42Z",
+    "duration": "PT6M34S",
+    "duration_seconds": 394,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "5DK8mkQj2GY",
+    "title": "¿Cómo es el Funcionamiento de los Widgets?  Generación de leads 👥",
+    "publishedAt": "2025-05-06T15:42:44Z",
+    "duration": "PT16M3S",
+    "duration_seconds": 963,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "d2VqQJuQRdU",
+    "title": "¿Cómo habilitar el método de pago con transferencia bancaria? 💸",
+    "publishedAt": "2025-05-06T15:16:20Z",
+    "duration": "PT4M17S",
+    "duration_seconds": 257,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "2p_-tPYYgoM",
+    "title": "¿Cómo configurar los envíos de físicos en Mastertools? 📤",
+    "publishedAt": "2025-04-29T15:27:17Z",
+    "duration": "PT4M6S",
+    "duration_seconds": 246,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "XA5ql86ZXbQ",
+    "title": "¿Cómo aplicar descuentos a tus productos físicos? 🛍️💰",
+    "publishedAt": "2025-04-29T15:09:48Z",
+    "duration": "PT4M43S",
+    "duration_seconds": 283,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "-OjQWRzITW0",
+    "title": "¿Cómo crear un menú, submenú y megamenú ?",
+    "publishedAt": "2025-04-29T15:02:34Z",
+    "duration": "PT6M6S",
+    "duration_seconds": 366,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "Pc2PiCyNf38",
+    "title": "¿Cómo crear un blog en Mastertools?🕛",
+    "publishedAt": "2025-04-29T14:35:52Z",
+    "duration": "PT5M14S",
+    "duration_seconds": 314,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "poN-jPkgKxI",
+    "title": "¡Gestiona tus contactos!",
+    "publishedAt": "2025-02-27T22:15:23Z",
+    "duration": "PT2M25S",
+    "duration_seconds": 145,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "tsBd308cM_8",
+    "title": "¡Optimiza el SEO de tu funnel!",
+    "publishedAt": "2025-02-19T21:37:50Z",
+    "duration": "PT1M56S",
+    "duration_seconds": 116,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "qvmnl6o5F_0",
+    "title": "¡Bienvenido al módulo de citas!",
+    "publishedAt": "2025-02-19T21:19:30Z",
+    "duration": "PT5M12S",
+    "duration_seconds": 312,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "GD48XSbgZx0",
+    "title": "Emails del sistema",
+    "publishedAt": "2025-02-19T18:22:54Z",
+    "duration": "PT3M18S",
+    "duration_seconds": 198,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "ayT_HvAESsY",
+    "title": "¡Hey Tooler! Bienvenido a MasterTools.",
+    "publishedAt": "2025-02-19T17:52:19Z",
+    "duration": "PT50S",
+    "duration_seconds": 50,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "G4XH7FU04ac",
+    "title": "Funcionamiento de los Widgets - Básico 💻",
+    "publishedAt": "2025-02-18T23:00:52Z",
+    "duration": "PT12M18S",
+    "duration_seconds": 738,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "sOrbUb1Inck",
+    "title": "¿Cómo crear combos de productos variables en Mastertools? 🛍️",
+    "publishedAt": "2025-02-18T22:13:25Z",
+    "duration": "PT4M12S",
+    "duration_seconds": 252,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "2YhFZDwrcD4",
+    "title": "¿Cómo optimizar el SEO de un funnel en Mastertools? 🔍",
+    "publishedAt": "2025-02-17T15:58:37Z",
+    "duration": "PT4M4S",
+    "duration_seconds": 244,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "rSgQysILklg",
+    "title": "📅¿Cómo funciona el sistema de agendamiento en Mastertools? ⏱️",
+    "publishedAt": "2025-02-13T20:48:00Z",
+    "duration": "PT9M57S",
+    "duration_seconds": 597,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "sCDiU5btyRs",
+    "title": "¿Cómo dar permisos como administrador en Mastertools?",
+    "publishedAt": "2025-02-13T18:03:24Z",
+    "duration": "PT3M18S",
+    "duration_seconds": 198,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "qrGFBTjVHl4",
+    "title": "¿Cómo crear un enlace de ancla en tu funnel de forma sencilla? ⚓",
+    "publishedAt": "2025-02-12T21:06:30Z",
+    "duration": "PT2M39S",
+    "duration_seconds": 159,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "MpnwrUBByac",
+    "title": "¿Cómo crear combos de un producto variable y uno simple? - Shoptool 🛒",
+    "publishedAt": "2025-02-12T17:29:28Z",
+    "duration": "PT4M4S",
+    "duration_seconds": 244,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "Jt6EwISWR1Q",
+    "title": "¿Cómo tomar una plantilla de MASTERTOOLS y adecuarla a tu país?",
+    "publishedAt": "2024-12-04T22:49:45Z",
+    "duration": "PT5M12S",
+    "duration_seconds": 312,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "RhBA5WKPptQ",
+    "title": "¿Cómo hacer un anuncio temporal en MasterTools? LinkTool",
+    "publishedAt": "2024-12-03T23:04:08Z",
+    "duration": "PT3M11S",
+    "duration_seconds": 191,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "yBa4P9ju1mw",
+    "title": "Distribución de los espacios y márgenes de mi Funnel en MasterTools",
+    "publishedAt": "2024-11-30T16:37:09Z",
+    "duration": "PT6M32S",
+    "duration_seconds": 392,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "cPUISQDdgAE",
+    "title": "¿Cómo adaptar mi funnel a la versión Móvil?",
+    "publishedAt": "2024-11-28T16:34:38Z",
+    "duration": "PT8M4S",
+    "duration_seconds": 484,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "xKFG-4-n2Qg",
+    "title": "¿Cómo hacer CTA's superpuestos en LinkTool? | Haz un llamado a la acción en tu página.",
+    "publishedAt": "2024-11-28T16:34:24Z",
+    "duration": "PT3M16S",
+    "duration_seconds": 196,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "8VXCoSYu0Ek",
+    "title": "¿Cómo agregar imágenes a mi Funnel y configurar efectos en MasterTools?",
+    "publishedAt": "2024-11-27T16:12:49Z",
+    "duration": "PT9M18S",
+    "duration_seconds": 558,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "KsFaZQpSwf0",
+    "title": "Shoptool - Configuración avanzada de la tienda.",
+    "publishedAt": "2024-11-27T16:12:30Z",
+    "duration": "PT34M47S",
+    "duration_seconds": 2087,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "OUo7yHSECg0",
+    "title": "Shoptool - ¿Cómo configurar el carrito de tu funnel? 🛒",
+    "publishedAt": "2024-11-22T20:38:56Z",
+    "duration": "PT3M55S",
+    "duration_seconds": 235,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "Dzu_H80gYfs",
+    "title": "¿Cómo crear segmentos en EmailTool? 📧",
+    "publishedAt": "2024-09-09T17:46:46Z",
+    "duration": "PT4M18S",
+    "duration_seconds": 258,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "bIuyJVM5gg8",
+    "title": "¿Cómo insertar etiquetas de personalización en tu campaña? | EmailTool",
+    "publishedAt": "2024-09-09T17:40:20Z",
+    "duration": "PT4M6S",
+    "duration_seconds": 246,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "anvOwvTy2yg",
+    "title": "Prueba OBS Multiplataforma",
+    "publishedAt": "2024-08-16T21:11:07Z",
+    "duration": "PT1H31M35S",
+    "duration_seconds": 5495,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "LGVDdocHcEY",
+    "title": "Prueba OBS Multiplataforma",
+    "publishedAt": "2024-08-16T16:53:42Z",
+    "duration": "PT1H18M56S",
+    "duration_seconds": 4736,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "y8EDXLfEHJA",
+    "title": "📦 Cómo DEJAR de BOTAR TU DINERO en DEVOLUCIONES Dropshipper gracias a Mastershop ⚡ | Lanzamiento",
+    "publishedAt": "2024-08-16T13:08:07Z",
+    "duration": "PT53M28S",
+    "duration_seconds": 3208,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "QAH7Huon2CQ",
+    "title": "¿Cómo eliminar proyectos e integraciones en ConnecTool? | Herramientas para DROPSHIPPING",
+    "publishedAt": "2024-07-11T21:51:00Z",
+    "duration": "PT1M47S",
+    "duration_seconds": 107,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "_-Mm43hOGkM",
+    "title": "¿Cómo AUTOMATIZAR pedidos de un COMBO de productos diferentes?| Aumenta la facturación de tu TIENDA",
+    "publishedAt": "2024-07-11T21:44:39Z",
+    "duration": "PT6M38S",
+    "duration_seconds": 398,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "V8qUXfeHjfM",
+    "title": "¿Cómo relacionar y sincronizar COMBOS con varias unidades del mismo producto? | AUTOMATIZA pedidos",
+    "publishedAt": "2024-07-11T21:14:02Z",
+    "duration": "PT3M53S",
+    "duration_seconds": 233,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "4hVvPFvsceE",
+    "title": "¿Cómo hacerle SEGUIMIENTO a la sincronización de pedidos? | AUTOMATIZACIÓN de ordenes E-COMMERCE",
+    "publishedAt": "2024-07-11T16:18:34Z",
+    "duration": "PT3M10S",
+    "duration_seconds": 190,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "EaSBcfqw8Qk",
+    "title": "¿Cómo crear COMBOS de varias unidades del mismo producto? | Vender más cantidad para ecommerce",
+    "publishedAt": "2024-07-10T21:51:05Z",
+    "duration": "PT4M41S",
+    "duration_seconds": 281,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "6fDWdmGJY8k",
+    "title": "¿Cómo crear COMBOS de distintos productos para hacer DROPSHIPPING? | Vender combos en Dropshipping",
+    "publishedAt": "2024-07-10T21:43:58Z",
+    "duration": "PT4M4S",
+    "duration_seconds": 244,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "7taB6HSxGOA",
+    "title": "Conectool - Tootorial ¿Cómo vincular Shiipy con Mastertools?",
+    "publishedAt": "2024-02-02T21:10:17Z",
+    "duration": "PT10M36S",
+    "duration_seconds": 636,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "6y4uTEfqO8w",
+    "title": "💣Cómo reventar tus ventas en 2024 con Shiipy + MasterTools | Nueva Alianza",
+    "publishedAt": "2024-02-01T02:43:04Z",
+    "duration": "PT2H5M39S",
+    "duration_seconds": 7539,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "TqqCGNV6oY0",
+    "title": "🚀 Cómo reventar tus ventas en 2024 con Dropi + MasterTools",
+    "publishedAt": "2024-01-19T01:28:53Z",
+    "duration": "PT1H12M54S",
+    "duration_seconds": 4374,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "FsGmS3Z9ZRs",
+    "title": "Mi Experiencia con MasterTools | Juan David (Caso Real)",
+    "publishedAt": "2023-11-18T23:00:18Z",
+    "duration": "PT3M9S",
+    "duration_seconds": 189,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "7tfhUfL2Jhc",
+    "title": "Opinión de Karen Sobre El Software de MasterTools.",
+    "publishedAt": "2023-11-18T20:00:03Z",
+    "duration": "PT1M21S",
+    "duration_seconds": 81,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "X_MDbByNlQg",
+    "title": "Esta es mi Experiencia con MasterTools | Felipe (Mi Opinión)",
+    "publishedAt": "2023-11-18T19:00:20Z",
+    "duration": "PT3M4S",
+    "duration_seconds": 184,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "aJKrFgfxzPM",
+    "title": "Mi Opinión con MasterTools | Bayron (Caso Real)",
+    "publishedAt": "2023-11-18T18:00:01Z",
+    "duration": "PT1M12S",
+    "duration_seconds": 72,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "oCo8akycs7g",
+    "title": "MasterTools - Kevin Habla De Su Experiencia Con El Software (Actualizado)",
+    "publishedAt": "2023-11-18T16:21:39Z",
+    "duration": "PT1M13S",
+    "duration_seconds": 73,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "qmH6GM9qxSk",
+    "title": "Mi Experiencia con MasterTools | John Pérez (Mi opinión)",
+    "publishedAt": "2023-11-17T23:41:42Z",
+    "duration": "PT3M2S",
+    "duration_seconds": 182,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "8gb084ylnfE",
+    "title": "Esta es mi Experiencia con MasterTools | Jhon Castaño(Caso Real)",
+    "publishedAt": "2023-11-17T21:23:05Z",
+    "duration": "PT1M15S",
+    "duration_seconds": 75,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "8BA7lHVuAjI",
+    "title": "Mi Experiencia con MasterTools | Oscar  (Mi opinión)",
+    "publishedAt": "2023-11-17T00:52:43Z",
+    "duration": "PT2M2S",
+    "duration_seconds": 122,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "MTEgSwqs0o0",
+    "title": "CONNECTOOL | Cómo Importar Productos de Dropi en MasterTools y Automatizar los Pedidos Generados",
+    "publishedAt": "2023-11-11T12:09:49Z",
+    "duration": "PT56M27S",
+    "duration_seconds": 3387,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "YGzgotfBPNE",
+    "title": "¿CÓMO CONECTAR ENVIOCLICK CON MASTERTOOLS?",
+    "publishedAt": "2023-09-25T19:26:12Z",
+    "duration": "PT4M8S",
+    "duration_seconds": 248,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "tpNgsDsiuSM",
+    "title": "¿CÓMO CONECTAR DROPI CON MASTERTOOLS?",
+    "publishedAt": "2023-09-22T17:41:29Z",
+    "duration": "PT3M25S",
+    "duration_seconds": 205,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "VukGueKfPuk",
+    "title": "¿COMO IMPORTAR UN PRODUCTO DESDE DROPI A LA TIENDA DE MASTERTOOLS?",
+    "publishedAt": "2023-09-20T16:28:29Z",
+    "duration": "PT5M18S",
+    "duration_seconds": 318,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "_D-Au-7xJV8",
+    "title": "¿COMO UTILIZAR UNA PLANTILLA DE INTEGRACION DE CONNECTOOL?",
+    "publishedAt": "2023-09-20T15:58:09Z",
+    "duration": "PT1M51S",
+    "duration_seconds": 111,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "Cfqaa0JqYps",
+    "title": "Documental Dumalux",
+    "publishedAt": "2023-09-04T07:10:08Z",
+    "duration": "PT13M14S",
+    "duration_seconds": 794,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "cmv1rtMfsgU",
+    "title": "Final Corte   Dumalux",
+    "publishedAt": "2023-09-04T07:02:34Z",
+    "duration": "PT1M58S",
+    "duration_seconds": 118,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "NHHgTNjzCzo",
+    "title": "¡MasterTools y Mike Munzvil en la Feria EFFIX 2023! 😎🚀",
+    "publishedAt": "2023-09-04T00:30:16Z",
+    "duration": "PT1M51S",
+    "duration_seconds": 111,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "f8zPn7gAaJA",
+    "title": "37  General 16 9",
+    "publishedAt": "2023-08-15T18:06:10Z",
+    "duration": "PT1M1S",
+    "duration_seconds": 61,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "VI7gYu3edFw",
+    "title": "36  Shopify 16 9",
+    "publishedAt": "2023-08-15T17:48:48Z",
+    "duration": "PT1M1S",
+    "duration_seconds": 61,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "puRxw5lr1-A",
+    "title": "13 col dias 16 9",
+    "publishedAt": "2023-05-30T22:15:05Z",
+    "duration": "PT47S",
+    "duration_seconds": 47,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "v0sRu1cDlhc",
+    "title": "12  col   dias 16 9",
+    "publishedAt": "2023-05-30T21:29:24Z",
+    "duration": "PT47S",
+    "duration_seconds": 47,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "akd-AIyvpCc",
+    "title": "11  col   dias 16 9",
+    "publishedAt": "2023-05-30T21:28:34Z",
+    "duration": "PT1M1S",
+    "duration_seconds": 61,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "pmFs990N7cI",
+    "title": "10  col   dias 16 9",
+    "publishedAt": "2023-05-30T21:27:57Z",
+    "duration": "PT50S",
+    "duration_seconds": 50,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "CGjKUxBxikA",
+    "title": "9  col   dias 16 9",
+    "publishedAt": "2023-05-30T21:27:25Z",
+    "duration": "PT50S",
+    "duration_seconds": 50,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "OXfPYfxcgoI",
+    "title": "7  col   Pedidos  16 9",
+    "publishedAt": "2023-05-30T21:27:04Z",
+    "duration": "PT39S",
+    "duration_seconds": 39,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "XXtIYKDzGhg",
+    "title": "5  Col   Plata 16 9",
+    "publishedAt": "2023-05-30T00:16:53Z",
+    "duration": "PT43S",
+    "duration_seconds": 43,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "bKeOFLn4GcY",
+    "title": "6  Col   Pedidos 16 9",
+    "publishedAt": "2023-05-30T00:16:29Z",
+    "duration": "PT46S",
+    "duration_seconds": 46,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "h_7HAyfT-Bw",
+    "title": "4  Col   Plata 16 9",
+    "publishedAt": "2023-05-30T00:16:08Z",
+    "duration": "PT42S",
+    "duration_seconds": 42,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "0bk0X4ZwSJg",
+    "title": "3  FRIO   Pedidos   Diagrama producido 16 9",
+    "publishedAt": "2023-05-29T23:10:00Z",
+    "duration": "PT47S",
+    "duration_seconds": 47,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "E7U-Pdcxc9U",
+    "title": "8  FRIO   Plata   Estructura EXACTA vender 1 1",
+    "publishedAt": "2023-05-29T23:09:58Z",
+    "duration": "PT9S",
+    "duration_seconds": 9,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "AGoTyWpylO0",
+    "title": "1  FRIO Plata Diagrama 16 9",
+    "publishedAt": "2023-05-29T23:09:27Z",
+    "duration": "PT39S",
+    "duration_seconds": 39,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "CG0UlY3xHxw",
+    "title": "2  FRIO   Plata   Diagrama producido 16 9",
+    "publishedAt": "2023-05-29T23:09:10Z",
+    "duration": "PT46S",
+    "duration_seconds": 46,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "BiYSQRR0_1M",
+    "title": "2 16 9",
+    "publishedAt": "2023-05-27T19:27:11Z",
+    "duration": "PT47S",
+    "duration_seconds": 47,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "q92hphQb9lk",
+    "title": "1 16 9",
+    "publishedAt": "2023-05-27T19:27:05Z",
+    "duration": "PT39S",
+    "duration_seconds": 39,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "GpmOB3YNo5c",
+    "title": "35  RM   Llegaste a Checkout 16 9",
+    "publishedAt": "2023-05-23T23:50:23Z",
+    "duration": "PT47S",
+    "duration_seconds": 47,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "UGtpd3E-ZS8",
+    "title": "33    RM 14 días prueba   16 9",
+    "publishedAt": "2023-05-16T05:41:58Z",
+    "duration": "PT36S",
+    "duration_seconds": 36,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "RspLU_sTPMo",
+    "title": "32 2 RM   Todo obtendras en desafio   16 9",
+    "publishedAt": "2023-05-16T05:41:52Z",
+    "duration": "PT46S",
+    "duration_seconds": 46,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "_mupH0ZZfkI",
+    "title": "32  RM   Todo obtendras en desafio   16 9",
+    "publishedAt": "2023-05-16T05:41:44Z",
+    "duration": "PT1M5S",
+    "duration_seconds": 65,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "DpRlbGpk6R0",
+    "title": "29  RM   Trabajos ind   16 9",
+    "publishedAt": "2023-05-16T05:41:38Z",
+    "duration": "PT44S",
+    "duration_seconds": 44,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "QbNzrVhZqk4",
+    "title": "28  RM   Desaparecer taller   16 9",
+    "publishedAt": "2023-05-16T05:41:33Z",
+    "duration": "PT35S",
+    "duration_seconds": 35,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "GIYmSIZ95uQ",
+    "title": "26 2 RM   Terminar taller peliculas   16 9",
+    "publishedAt": "2023-05-16T05:41:27Z",
+    "duration": "PT46S",
+    "duration_seconds": 46,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "XcwXCSbF3mE",
+    "title": "26  RM   Terminar taller peliculas   16 9",
+    "publishedAt": "2023-05-16T05:41:19Z",
+    "duration": "PT44S",
+    "duration_seconds": 44,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "GGTMGx3gKL0",
+    "title": "27  Trabajos ind   16 9",
+    "publishedAt": "2023-05-11T21:48:29Z",
+    "duration": "PT1M12S",
+    "duration_seconds": 72,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "ZYS8vEwIvd0",
+    "title": "19 3 Perder clientes Darlyn   16 9",
+    "publishedAt": "2023-05-11T21:45:13Z",
+    "duration": "PT45S",
+    "duration_seconds": 45,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "oVv6h0pqTAc",
+    "title": "19 2 Perder clientes Darlyn   16 9",
+    "publishedAt": "2023-05-11T21:45:06Z",
+    "duration": "PT55S",
+    "duration_seconds": 55,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "kV1-DkAK_Jg",
+    "title": "30  Qué hice para atraer clientes   16 9",
+    "publishedAt": "2023-05-11T21:18:26Z",
+    "duration": "PT53S",
+    "duration_seconds": 53,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "he7aGJdE_gc",
+    "title": "34  No importa que vendas   16 9",
+    "publishedAt": "2023-05-11T21:18:22Z",
+    "duration": "PT37S",
+    "duration_seconds": 37,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "ytMlGfT_Qrk",
+    "title": "31  Todos necesitan atraer clientes   16 9",
+    "publishedAt": "2023-05-11T21:18:03Z",
+    "duration": "PT47S",
+    "duration_seconds": 47,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "8-MvS1QRGzs",
+    "title": "25  Profesional ind   16 9",
+    "publishedAt": "2023-05-09T19:31:51Z",
+    "duration": "PT57S",
+    "duration_seconds": 57,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "lsVe5LcPMq8",
+    "title": "24  Ejemplos páginas   16 9",
+    "publishedAt": "2023-05-09T19:31:47Z",
+    "duration": "PT55S",
+    "duration_seconds": 55,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "YDlLRcHB2fk",
+    "title": "23  Peq y med negocio atraer clientes   16 9",
+    "publishedAt": "2023-05-09T19:31:41Z",
+    "duration": "PT1M2S",
+    "duration_seconds": 62,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "khR3JVc3mow",
+    "title": "22  Llevar negocio a digital   16 9",
+    "publishedAt": "2023-05-09T19:31:36Z",
+    "duration": "PT47S",
+    "duration_seconds": 47,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "cXcZPA_wD6c",
+    "title": "21  Diagrama escaleras   16 9",
+    "publishedAt": "2023-05-09T19:31:34Z",
+    "duration": "PT25S",
+    "duration_seconds": 25,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "ELNzHMFH2JM",
+    "title": "20  Todo negocio conocer Diagrama   16 9",
+    "publishedAt": "2023-05-09T19:31:30Z",
+    "duration": "PT44S",
+    "duration_seconds": 44,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "-c9OlSTwUr8",
+    "title": "19  Perder clientes Darlyn   16 9",
+    "publishedAt": "2023-05-09T19:31:27Z",
+    "duration": "PT43S",
+    "duration_seconds": 43,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "83ZImZETg0M",
+    "title": "19 RM Se Registro y no termino el Webinar 16 9",
+    "publishedAt": "2023-04-19T01:56:07Z",
+    "duration": "PT51S",
+    "duration_seconds": 51,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "w7d__oowL2I",
+    "title": "18 RM No termino el Webinar 16 9",
+    "publishedAt": "2023-04-18T21:39:23Z",
+    "duration": "PT45S",
+    "duration_seconds": 45,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "qHW9Dem7pxg",
+    "title": "17 RM Llegaron al Checkout y no se suscribieron 16 9",
+    "publishedAt": "2023-04-18T21:38:52Z",
+    "duration": "PT44S",
+    "duration_seconds": 44,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "xIV7R5939MM",
+    "title": "16 RM No se registro 16 9",
+    "publishedAt": "2023-04-18T21:38:20Z",
+    "duration": "PT44S",
+    "duration_seconds": 44,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "woKsJZxtL1A",
+    "title": "15 RM Se Registro y no termino Webinar 16 9",
+    "publishedAt": "2023-04-18T21:37:23Z",
+    "duration": "PT1M",
+    "duration_seconds": 60,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "vRoi7dxrsjM",
+    "title": "13  Hombre en la luna   16 9",
+    "publishedAt": "2023-03-31T23:59:11Z",
+    "duration": "PT49S",
+    "duration_seconds": 49,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "LgFWxg4ev58",
+    "title": "12  La sangre de todo negocio son las ventas   16 9",
+    "publishedAt": "2023-03-31T21:36:19Z",
+    "duration": "PT1M2S",
+    "duration_seconds": 62,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "ZIo194Ab_SQ",
+    "title": "11  Piensan que hay que tener local comercial   16 9",
+    "publishedAt": "2023-03-31T21:35:26Z",
+    "duration": "PT1M6S",
+    "duration_seconds": 66,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "VhzgU6ZvySE",
+    "title": "10  Estamos utilizando nuestros sitios web   16 9",
+    "publishedAt": "2023-03-31T21:34:22Z",
+    "duration": "PT1M19S",
+    "duration_seconds": 79,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "0smIN5qo-Bw",
+    "title": "9 2 Hay problemas buenos de tener   16 9",
+    "publishedAt": "2023-03-31T21:33:29Z",
+    "duration": "PT59S",
+    "duration_seconds": 59,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "J3IKszdupIs",
+    "title": "9  Hay problemas buenos de tener   16 9",
+    "publishedAt": "2023-03-31T21:32:39Z",
+    "duration": "PT47S",
+    "duration_seconds": 47,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "_L55F-GjFVs",
+    "title": "8  Ventajas que tiene un sitio web vs uno que no   16 9",
+    "publishedAt": "2023-03-31T21:30:18Z",
+    "duration": "PT1M40S",
+    "duration_seconds": 100,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "-56ADv6Zd24",
+    "title": "7  Es importante que tu negocio este en internet    16 9",
+    "publishedAt": "2023-03-31T21:28:46Z",
+    "duration": "PT1M12S",
+    "duration_seconds": 72,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "tJ0Jqllf31w",
+    "title": "6  Buenos productos pero no los vendes   16 9",
+    "publishedAt": "2023-03-31T21:26:46Z",
+    "duration": "PT1M38S",
+    "duration_seconds": 98,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "IhMNzVjhyVo",
+    "title": "5  Puede que tu punto de venta sea muy bonito   16 9",
+    "publishedAt": "2023-03-31T21:24:52Z",
+    "duration": "PT1M35S",
+    "duration_seconds": 95,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "jbHytNwpBD4",
+    "title": "4  Cada dia mas negocios se pasan al mundo digital   16 9",
+    "publishedAt": "2023-03-31T21:23:15Z",
+    "duration": "PT1M24S",
+    "duration_seconds": 84,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "Fw2SOxLUjlc",
+    "title": "3  Tu competencia ya tiene sitio web   16 9",
+    "publishedAt": "2023-03-31T21:21:44Z",
+    "duration": "PT1M15S",
+    "duration_seconds": 75,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "nnPehmZA9ts",
+    "title": "2  Tu competencia va mas adelante   16 9",
+    "publishedAt": "2023-03-31T21:20:37Z",
+    "duration": "PT57S",
+    "duration_seconds": 57,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "nVDbrY2-2Zg",
+    "title": "1.2 Necesitas Impulsar tu Negocio   16 9",
+    "publishedAt": "2023-03-31T21:19:37Z",
+    "duration": "PT51S",
+    "duration_seconds": 51,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "Dazjgq_2ly0",
+    "title": "1  Necesitas Impulsar tu Negocio   16 9",
+    "publishedAt": "2023-03-31T21:18:23Z",
+    "duration": "PT51S",
+    "duration_seconds": 51,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "RrwMBdnhCnw",
+    "title": "Si usas MasterTools mira esto 🤩🚀",
+    "publishedAt": "2022-11-25T18:58:30Z",
+    "duration": "PT1M1S",
+    "duration_seconds": 61,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "pJ1RxbHvUoU",
+    "title": "🚀¿Qué te ha permitido MasterTools? | CASOS DE ÉXITO 🏆 |  Entrevista con Oscar Bastidas🎥",
+    "publishedAt": "2022-10-04T21:45:01Z",
+    "duration": "PT15M57S",
+    "duration_seconds": 957,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "qiBE_9sHohI",
+    "title": "¿Cómo Crear Menús y Submenús En Un Funnel Hub?",
+    "publishedAt": "2022-09-26T17:54:20Z",
+    "duration": "PT19M20S",
+    "duration_seconds": 1160,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "QrmI4_I4uWw",
+    "title": "¿Cómo dar permisos como Administrador en MasterTools?",
+    "publishedAt": "2022-09-26T17:26:23Z",
+    "duration": "PT7M1S",
+    "duration_seconds": 421,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "mPLv_7qxxXw",
+    "title": "¿Cómo Ver y Descargar Las Respuestas De un Formulario o Quiz?",
+    "publishedAt": "2022-09-26T17:07:50Z",
+    "duration": "PT5M52S",
+    "duration_seconds": 352,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "sGYVhnYGSMw",
+    "title": "¿Cómo Configurar Mi Funnel Para Versión Celular y Tablet? Pasos Simples y Rápidos",
+    "publishedAt": "2022-09-26T16:22:38Z",
+    "duration": "PT9M30S",
+    "duration_seconds": 570,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "arbkKHGXLDk",
+    "title": "34. Oscar - no es complicado 16.9",
+    "publishedAt": "2022-09-26T16:15:47Z",
+    "duration": "PT53S",
+    "duration_seconds": 53,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "88X6_PxKpE0",
+    "title": "¿Qué es un PopUp o Ventana Emergente y cómo crearla en MasterTools?",
+    "publishedAt": "2022-09-26T16:13:48Z",
+    "duration": "PT12M39S",
+    "duration_seconds": 759,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "8BuGD-S6o9g",
+    "title": "33. Oscar - Historia y herramienta 16.9",
+    "publishedAt": "2022-09-26T16:13:48Z",
+    "duration": "PT1M21S",
+    "duration_seconds": 81,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "xVkW7B3R_jA",
+    "title": "¿Cómo Agregar o Eliminar Campos Para Formularios y Check Outs?",
+    "publishedAt": "2022-09-26T16:13:26Z",
+    "duration": "PT11M11S",
+    "duration_seconds": 671,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "1KE4QyHxXo8",
+    "title": "Crea tus copys en automático 😎",
+    "publishedAt": "2022-09-25T18:43:48Z",
+    "duration": "PT30S",
+    "duration_seconds": 30,
+    "type": "short",
+    "privacy": "public"
+  },
+  {
+    "id": "CUvsjvcOCas",
+    "title": "31  Nugget John 1 1",
+    "publishedAt": "2022-09-21T23:09:33Z",
+    "duration": "PT1M45S",
+    "duration_seconds": 105,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "ZV8TGCX_20s",
+    "title": "27  Nugget John 1 1",
+    "publishedAt": "2022-09-21T23:09:22Z",
+    "duration": "PT1M",
+    "duration_seconds": 60,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "S8T48QCQJXs",
+    "title": "29  Nugget John 1 1",
+    "publishedAt": "2022-09-21T23:09:08Z",
+    "duration": "PT1M35S",
+    "duration_seconds": 95,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "5AfOcXNt--g",
+    "title": "28  Nugget aud Mike 1 1",
+    "publishedAt": "2022-09-21T23:09:01Z",
+    "duration": "PT1M15S",
+    "duration_seconds": 75,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "-yBwKYtAneI",
+    "title": "26  pagina vieja y nueva 16 9",
+    "publishedAt": "2022-09-21T23:08:55Z",
+    "duration": "PT36S",
+    "duration_seconds": 36,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "7Oy66K1Qcgw",
+    "title": "30  Nugget John 1 1",
+    "publishedAt": "2022-09-21T23:08:39Z",
+    "duration": "PT2M14S",
+    "duration_seconds": 134,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "NvuWPX669kE",
+    "title": "32  Nugget John 1 1",
+    "publishedAt": "2022-09-21T23:08:20Z",
+    "duration": "PT1M44S",
+    "duration_seconds": 104,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "e5cWblGI-34",
+    "title": "🚀¿Cómo escalaste con MasterTools? | CASOS DE ÉXITO 🏆 |  Entrevista con John Castaño🎥",
+    "publishedAt": "2022-09-18T23:15:00Z",
+    "duration": "PT16M43S",
+    "duration_seconds": 1003,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "dLJ_wjmqnkQ",
+    "title": "📝¿QUÉ ES COPYWRITING? 2024 | ✍️Curso Gratis de Redacción y Escritura Persuasiva",
+    "publishedAt": "2022-09-11T01:15:02Z",
+    "duration": "PT29M29S",
+    "duration_seconds": 1769,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "RN0clnoB8Wo",
+    "title": "🚀¿Qué opinas de MasterTools? | CASOS DE ÉXITO 🏆 |  Entrevista con SurfMarketers 🎥",
+    "publishedAt": "2022-09-03T21:50:32Z",
+    "duration": "PT11M31S",
+    "duration_seconds": 691,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "E-RqKnMHRUs",
+    "title": "Convierte tu biografía en una máquina de ventas 🚀",
+    "publishedAt": "2022-09-01T23:28:14Z",
+    "duration": "PT1M1S",
+    "duration_seconds": 61,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "Ez3zz9UNOkY",
+    "title": "¿Cómo conectar un Formulario de tu Funnel con la Herramienta de EmailTool? MASTERTOOLS 2.0 BETA",
+    "publishedAt": "2022-08-25T21:10:20Z",
+    "duration": "PT20M46S",
+    "duration_seconds": 1246,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "gDpvRjCtAQ0",
+    "title": "23. Voz off - Menos de 12 minutos 16.9",
+    "publishedAt": "2022-08-18T20:36:18Z",
+    "duration": "PT46S",
+    "duration_seconds": 46,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "-PCfx9l2KmY",
+    "title": "25. Voz off - Problemas negocio digital 16.9",
+    "publishedAt": "2022-08-18T20:36:13Z",
+    "duration": "PT26S",
+    "duration_seconds": 26,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "ayBv7Kgkl2A",
+    "title": "24. Voz off - Funnels que si venden 16.9",
+    "publishedAt": "2022-08-18T20:36:08Z",
+    "duration": "PT27S",
+    "duration_seconds": 27,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "P97OcVDUDoQ",
+    "title": "22. Las herramientas que necesitas 16.9",
+    "publishedAt": "2022-07-27T18:35:34Z",
+    "duration": "PT32S",
+    "duration_seconds": 32,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "sy6fe1FrHJ4",
+    "title": "21. Herramientas pasando 16.9",
+    "publishedAt": "2022-07-26T16:29:11Z",
+    "duration": "PT35S",
+    "duration_seconds": 35,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "4NmA4Md_4Ic",
+    "title": "¿Cómo Importar y Exportar listas de Contactos?",
+    "publishedAt": "2022-07-01T22:09:15Z",
+    "duration": "PT7M2S",
+    "duration_seconds": 422,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "GKHkNBt6Y4o",
+    "title": "¿Cómo realizar una Búsqueda avanzada de Contacto en MasterTools Email?",
+    "publishedAt": "2022-07-01T22:09:03Z",
+    "duration": "PT5M49S",
+    "duration_seconds": 349,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "P3UgKSVcm90",
+    "title": "¿Cómo leer las métricas de MasterTools Email?",
+    "publishedAt": "2022-07-01T22:08:49Z",
+    "duration": "PT4M19S",
+    "duration_seconds": 259,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "czU_Rm9d5Ck",
+    "title": "¿Cómo Realizar la Limpieza de las Listas de Contactos en MasterTools Email?",
+    "publishedAt": "2022-07-01T22:08:26Z",
+    "duration": "PT4M58S",
+    "duration_seconds": 298,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "iBRmVhRUaJM",
+    "title": "¿Cómo crear Campañas o Comunicados en MasterTools Email?",
+    "publishedAt": "2022-07-01T22:08:10Z",
+    "duration": "PT16M28S",
+    "duration_seconds": 988,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "qoiD94KQkF8",
+    "title": "¿Cómo Agregar Correos a una Automatización?",
+    "publishedAt": "2022-07-01T22:07:53Z",
+    "duration": "PT27M54S",
+    "duration_seconds": 1674,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "wT7PmfqWflU",
+    "title": "¿Cómo Crear Condiciones en una Automatización?",
+    "publishedAt": "2022-07-01T22:07:12Z",
+    "duration": "PT23M10S",
+    "duration_seconds": 1390,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "gQ4ciDORM74",
+    "title": "¿Qué son los Triggers en MasterTools Email?",
+    "publishedAt": "2022-07-01T22:06:48Z",
+    "duration": "PT5M14S",
+    "duration_seconds": 314,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "gmCUyL2o4pQ",
+    "title": "¿Cómo crear automatizaciones en MasterTools Email?",
+    "publishedAt": "2022-07-01T22:06:30Z",
+    "duration": "PT6M7S",
+    "duration_seconds": 367,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "phjgxoMqPr8",
+    "title": "¿Cómo crear listas y etiquetas en Mastertools Email (Tags)?",
+    "publishedAt": "2022-07-01T22:06:14Z",
+    "duration": "PT9M20S",
+    "duration_seconds": 560,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "Pghrgub-vOc",
+    "title": "¿Cómo es la herramienta de MasterTools Email?",
+    "publishedAt": "2022-07-01T22:05:56Z",
+    "duration": "PT9M57S",
+    "duration_seconds": 597,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "EnD8_kpPDPw",
+    "title": "¿Cómo utilizar el Generador de Anuncios Rápidos?",
+    "publishedAt": "2022-06-30T20:18:25Z",
+    "duration": "PT13M49S",
+    "duration_seconds": 829,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "z5B0wLOzLBU",
+    "title": "¿Cómo utilizar el Generador de Anuncios para Facebook?",
+    "publishedAt": "2022-06-30T20:18:00Z",
+    "duration": "PT10M29S",
+    "duration_seconds": 629,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "-2er2u7__YA",
+    "title": "¿Cómo generar secuencia de onboarding/entrega de lead magnet en el software de copy de MasterTools?",
+    "publishedAt": "2022-06-30T20:17:33Z",
+    "duration": "PT18M33S",
+    "duration_seconds": 1113,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "jQvh73QxYyM",
+    "title": "¿Cómo utilizar el Generador de Bullet para Funnels en el Software de Copy de MasterTools?",
+    "publishedAt": "2022-06-30T20:15:46Z",
+    "duration": "PT13M59S",
+    "duration_seconds": 839,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "30sdYak_wlc",
+    "title": "¿Cómo usar el Generador de Nombres e Ideas para Lead Magnets en el software de copy de MasterTools?",
+    "publishedAt": "2022-06-30T20:15:10Z",
+    "duration": "PT8M26S",
+    "duration_seconds": 506,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "0FU5HFei0P4",
+    "title": "¿Cómo usar el Generador de Títulos, Promesas y Encabezados en el Software de Copy de MasterTools?",
+    "publishedAt": "2022-06-30T20:14:46Z",
+    "duration": "PT11M17S",
+    "duration_seconds": 677,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "RjDKbxDJSeA",
+    "title": "¿Cómo utilizar el Generador de Mis Avatares en el Software de Copy de MasterTools?",
+    "publishedAt": "2022-06-30T20:14:25Z",
+    "duration": "PT29M14S",
+    "duration_seconds": 1754,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "loNrlHiiCqk",
+    "title": "7   DASHBOARD DE AVATAR",
+    "publishedAt": "2022-06-29T01:55:21Z",
+    "duration": "PT1M4S",
+    "duration_seconds": 64,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "O2qkPsCP8X8",
+    "title": "DASHBOARD ANUNCIOS",
+    "publishedAt": "2022-06-29T01:53:54Z",
+    "duration": "PT45S",
+    "duration_seconds": 45,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "s_kdmD2KDXI",
+    "title": "DAHSBOARD CONTENIDO",
+    "publishedAt": "2022-06-29T01:51:00Z",
+    "duration": "PT57S",
+    "duration_seconds": 57,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "f5QrUZXRN0Q",
+    "title": "DASHBOARD BULLET POINT",
+    "publishedAt": "2022-06-29T01:46:07Z",
+    "duration": "PT44S",
+    "duration_seconds": 44,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "ynYWX_j3isU",
+    "title": "DASHBOARD GENERADOR DE EMAIL",
+    "publishedAt": "2022-06-29T01:41:45Z",
+    "duration": "PT58S",
+    "duration_seconds": 58,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "Oi2T798P5qQ",
+    "title": "DASHBOARD GENERADOR DE TITULOS Y ENCABEZADOS",
+    "publishedAt": "2022-06-29T01:32:09Z",
+    "duration": "PT42S",
+    "duration_seconds": 42,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "RsoOBD_7Gcs",
+    "title": "¿Cómo conectar tus Productos de la Tienda a tu Funnel de MasterTools?",
+    "publishedAt": "2022-06-22T22:45:12Z",
+    "duration": "PT15M29S",
+    "duration_seconds": 929,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "5CfHUA3_2Ls",
+    "title": "Cómo Tener Varios Infoproductos en el Mismo Embudo con un Solo Dominio",
+    "publishedAt": "2022-06-02T17:19:12Z",
+    "duration": "PT6M6S",
+    "duration_seconds": 366,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "gQHYyAHYu3Q",
+    "title": "Cómo Instalar una Barra Fija Superior e Inferior de tu Funnel con Código CSS",
+    "publishedAt": "2022-06-02T16:30:29Z",
+    "duration": "PT10M48S",
+    "duration_seconds": 648,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "ZHr_H5dnxh4",
+    "title": "Cómo Configurar los Eventos del Píxel de Facebook en el Funnel de  MasterTools",
+    "publishedAt": "2022-06-01T23:42:23Z",
+    "duration": "PT8M24S",
+    "duration_seconds": 504,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "ZZF72P3A8KQ",
+    "title": "Cómo Instalar fácilmente el Chat de Messenger en tu Funnel de Ventas",
+    "publishedAt": "2022-06-01T20:40:54Z",
+    "duration": "PT7M42S",
+    "duration_seconds": 462,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "jT84mo5p1DU",
+    "title": "¿Cómo Subir Un Video En El Constructor De Funnels Desde Wistia y Vimeo?",
+    "publishedAt": "2022-05-26T23:24:57Z",
+    "duration": "PT7M18S",
+    "duration_seconds": 438,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "5vAnLsFvEis",
+    "title": "Cómo Agregar Fuentes Tipográficas Personalizadas en MasterTools en 5 simples pasos",
+    "publishedAt": "2022-05-26T20:34:17Z",
+    "duration": "PT9M25S",
+    "duration_seconds": 565,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "EJVLYh5UzmM",
+    "title": "Continua creando con MasterTools | La mejor herramienta digital para emprendedores",
+    "publishedAt": "2022-04-01T19:37:33Z",
+    "duration": "PT1M",
+    "duration_seconds": 60,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "J5H3qA53AAU",
+    "title": "😎¡Conoce y Crea tu Cuenta GRATIS en la Suite de Herramientas que Todo Emprendedor Necesita!",
+    "publishedAt": "2022-01-20T16:37:58Z",
+    "duration": "PT54S",
+    "duration_seconds": 54,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "rRVsX-Ec4WM",
+    "title": "¿Cómo hacer un UPSELL con MasterTools? | Vende más por internet 2024",
+    "publishedAt": "2021-11-29T17:31:21Z",
+    "duration": "PT9M5S",
+    "duration_seconds": 545,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "79EKvTEjDxY",
+    "title": "¿Cómo conectar un Subdominio en MasterTools?",
+    "publishedAt": "2021-11-29T17:16:50Z",
+    "duration": "PT11M21S",
+    "duration_seconds": 681,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "iwR2TH0n62k",
+    "title": "¿Cómo aplicar Descuentos a los pedidos de mi Tienda? | MasterTools",
+    "publishedAt": "2021-11-29T17:03:19Z",
+    "duration": "PT11M18S",
+    "duration_seconds": 678,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "dqsAyIw_ysk",
+    "title": "Calcula el Tráfico que soporta tu Funnel",
+    "publishedAt": "2021-11-29T14:55:29Z",
+    "duration": "PT7M47S",
+    "duration_seconds": 467,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "y_EwKbSRYF8",
+    "title": "¿Cómo Optimizar el SEO de un Funnel en MasterTools?",
+    "publishedAt": "2021-11-26T22:13:34Z",
+    "duration": "PT7M48S",
+    "duration_seconds": 468,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "ob0lhQp5pe8",
+    "title": "¿Cómo agregar un Botón de WhatsApp a tu funnel?  |  MasterTools",
+    "publishedAt": "2021-11-26T22:13:24Z",
+    "duration": "PT4M57S",
+    "duration_seconds": 297,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "phGMi5NTEAg",
+    "title": "Crea Puntos de Ancla en tu Landing Page de forma ¡RÁPIDA y SENCILLA!",
+    "publishedAt": "2021-11-26T22:13:19Z",
+    "duration": "PT5M28S",
+    "duration_seconds": 328,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "V7pnlJF332c",
+    "title": "¿Cómo crear un Quiz en MasterTools?",
+    "publishedAt": "2021-11-26T22:13:14Z",
+    "duration": "PT23M58S",
+    "duration_seconds": 1438,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "b12SRWuUNpU",
+    "title": "Configura el Check Out de tu Tienda en MasterTools",
+    "publishedAt": "2021-11-26T22:12:43Z",
+    "duration": "PT10M58S",
+    "duration_seconds": 658,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "OfirugrqLbQ",
+    "title": "Crea un Área de Miembros en MasterTools 👨‍💻",
+    "publishedAt": "2021-11-26T22:12:37Z",
+    "duration": "PT32M9S",
+    "duration_seconds": 1929,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "hag0aZTAgzU",
+    "title": "Duplica tus Ventas con Ofertas Bump: El Hack NINJA 🐱‍👤 de los marketers más PRO.",
+    "publishedAt": "2021-11-26T22:12:33Z",
+    "duration": "PT9M32S",
+    "duration_seconds": 572,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "XhGCl51fLwI",
+    "title": "¿Cómo agregar Productos Físicos a tu tienda de MasterTools?",
+    "publishedAt": "2021-11-26T22:11:01Z",
+    "duration": "PT10M46S",
+    "duration_seconds": 646,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "dirQxavrdG0",
+    "title": "Así configuras los ENVÍOS DE PRODUCTOS FÍSICOS en la Tienda de MasterTools",
+    "publishedAt": "2021-11-25T21:35:54Z",
+    "duration": "PT10M47S",
+    "duration_seconds": 647,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "NNtLWVCaVI4",
+    "title": "Como instalar un Chat en Vivo en mi Funnel | Tutorial Tawk.to",
+    "publishedAt": "2021-10-14T00:12:48Z",
+    "duration": "PT1M35S",
+    "duration_seconds": 95,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "MXElj2vK4g0",
+    "title": "MASTERCLASS | CREA TU FUNNEL DESDE CERO CON LAURA BLAGO",
+    "publishedAt": "2021-10-05T21:57:50Z",
+    "duration": "PT1H21M48S",
+    "duration_seconds": 4908,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "-7bs0lw3Ivk",
+    "title": "FUNNEL HUB, TRÁFICO FANTASMA Y POSICIONAMIENTO DE MARCA",
+    "publishedAt": "2021-09-08T22:13:22Z",
+    "duration": "PT27M25S",
+    "duration_seconds": 1645,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "TE1Rq64rvRo",
+    "title": "¡HA LLEGADO LA HORA DE ENVIAR TRÁFICO! - PARTE 2",
+    "publishedAt": "2021-09-08T22:10:58Z",
+    "duration": "PT1H6M28S",
+    "duration_seconds": 3988,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "WAHbpabf__g",
+    "title": "¡HA LLEGADO LA HORA DE ENVIAR TRÁFICO! - PARTE 1",
+    "publishedAt": "2021-09-08T22:09:00Z",
+    "duration": "PT53M50S",
+    "duration_seconds": 3230,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "B9e0BCbM99Q",
+    "title": "¿Cómo conectar tu Dominio de GoDaddy con MasterTools?",
+    "publishedAt": "2021-09-27T19:22:16Z",
+    "duration": "PT7M11S",
+    "duration_seconds": 431,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "-EyQOq-bhWk",
+    "title": "LA IMPORTANCIA DEL LINK ANALYTICS",
+    "publishedAt": "2021-09-08T22:07:08Z",
+    "duration": "PT56M28S",
+    "duration_seconds": 3388,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "ymOC-Pdwb0c",
+    "title": "¡HABLEMOS DE EMAIL MARKETING!",
+    "publishedAt": "2021-09-08T22:05:25Z",
+    "duration": "PT1H1M22S",
+    "duration_seconds": 3682,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "uq9zOurPLqE",
+    "title": "¡LLEGÓ LA HORA DE CONSTRUIR TU FUNNEL! - Con Alejandro Castrillón",
+    "publishedAt": "2021-09-08T21:59:56Z",
+    "duration": "PT1H23M51S",
+    "duration_seconds": 5031,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "O-SBAlHpY18",
+    "title": "¡ESCRIBE EL COPY PARA TU FUNNEL! - Con Alejandro Piamba",
+    "publishedAt": "2021-09-08T21:55:54Z",
+    "duration": "PT1H26M56S",
+    "duration_seconds": 5216,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "ruznNsF-JHw",
+    "title": "MASTERCLASS DE COPY PARA FUNNELS CON MIKE",
+    "publishedAt": "2021-09-17T21:42:07Z",
+    "duration": "PT33M45S",
+    "duration_seconds": 2025,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "H6fHwnmMve0",
+    "title": "MOCKUPS Y “LOOK & FEEL”",
+    "publishedAt": "2021-09-08T21:52:28Z",
+    "duration": "PT43M27S",
+    "duration_seconds": 2607,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "CPGrgENN5Uc",
+    "title": "CREA UNA OFERTA IRRESISTIBLE",
+    "publishedAt": "2021-09-08T21:50:44Z",
+    "duration": "PT58M56S",
+    "duration_seconds": 3536,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "KbFW08WeIkg",
+    "title": "Emisión en directo de MasterTools",
+    "publishedAt": "2021-09-13T23:52:23Z",
+    "duration": "P0D",
+    "duration_seconds": 0,
+    "type": "short",
+    "privacy": "public"
+  },
+  {
+    "id": "FuT5U6F68fM",
+    "title": "¡ELIGE TU TIPO DE FUNNEL IDEAL!",
+    "publishedAt": "2021-09-08T21:48:43Z",
+    "duration": "PT1H9M21S",
+    "duration_seconds": 4161,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "ElzoVB1Q1kM",
+    "title": "COMIENZA DESAFÍO DE IMPLEMENTACIÓN! LANZA TU SISTEMA DE VENTAS EN AUTOMÁTICO EN LOS PRÓXIMOS 28 DÍAS",
+    "publishedAt": "2021-09-09T15:39:41Z",
+    "duration": "PT59M21S",
+    "duration_seconds": 3561,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "a02_yDxJ5d8",
+    "title": "MasterTools | Herramientas digitales hechas por Marketer para Marketers",
+    "publishedAt": "2021-09-09T02:32:14Z",
+    "duration": "PT54S",
+    "duration_seconds": 54,
+    "type": "short",
+    "privacy": "public"
+  },
+  {
+    "id": "8k8jqqQ0ej8",
+    "title": "QUE COMIENZE EL DESAFIO DE IMPLEMENTACION !!",
+    "publishedAt": "2021-09-08T23:52:12Z",
+    "duration": "PT1M28S",
+    "duration_seconds": 88,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "3dMmNkH3dHE",
+    "title": "Cierre Lanzamiento MasterTools",
+    "publishedAt": "2021-09-08T01:24:37Z",
+    "duration": "PT1H14M29S",
+    "duration_seconds": 4469,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "bwpkKsT2MMw",
+    "title": "(Grabación) Bonus Para nuestros pioneros MasterTools",
+    "publishedAt": "2021-09-07T20:41:52Z",
+    "duration": "PT1H54M5S",
+    "duration_seconds": 6845,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "cZdzOEqxK_o",
+    "title": "Lanza tu sistema de ventas en automático en los próximos 20 días",
+    "publishedAt": "2021-09-07T12:02:08Z",
+    "duration": "PT51M31S",
+    "duration_seconds": 3091,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "F3q-Ziry_6A",
+    "title": "¿Cómo puedes aumentar tu lista de contactos en MasterTools sin cambiar el plan?",
+    "publishedAt": "2021-09-04T13:07:31Z",
+    "duration": "PT1H46S",
+    "duration_seconds": 3646,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "73Wo_eo2ebY",
+    "title": "Cómo siendo estudiante de BeMaster, puedes facturar más utilizando MasterTools",
+    "publishedAt": "2021-09-03T01:29:55Z",
+    "duration": "PT1H22M32S",
+    "duration_seconds": 4952,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "6vo79okczBA",
+    "title": "¿Cómo hacer campañas de Email Marketing efectivas con MasterTools?",
+    "publishedAt": "2021-09-02T01:46:05Z",
+    "duration": "PT20M34S",
+    "duration_seconds": 1234,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "KzJIO-hp0gA",
+    "title": "Desafío de Implementación",
+    "publishedAt": "2021-09-02T01:09:28Z",
+    "duration": "PT1H3M46S",
+    "duration_seconds": 3826,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "be30K1cQWTw",
+    "title": "Lanzamiento de MasterTools | Llegó el momento de usar lo que SÍ funciona",
+    "publishedAt": "2021-09-01T03:19:50Z",
+    "duration": "PT2H7M11S",
+    "duration_seconds": 7631,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "JL-xg3wOsAw",
+    "title": "Cómo ganar la placa de los 100K aún si no estás en BeMaster (Nueva Oportunidad Revelada)",
+    "publishedAt": "2021-08-31T00:46:23Z",
+    "duration": "PT42M19S",
+    "duration_seconds": 2539,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "jMGLGi4Fuy0",
+    "title": "Conecta tu Píxel de Facebook en MasterTools",
+    "publishedAt": "2021-08-31T00:01:08Z",
+    "duration": "PT7M42S",
+    "duration_seconds": 462,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "hxcW6kF8PRE",
+    "title": "¿Cómo verificar que mi Píxel esté Conectado Correctamente?",
+    "publishedAt": "2021-08-30T23:59:39Z",
+    "duration": "PT5M46S",
+    "duration_seconds": 346,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "AcdDNNKtfvg",
+    "title": "Conecta el Formulario de Citas con tu CRM",
+    "publishedAt": "2021-08-30T23:57:12Z",
+    "duration": "PT7M34S",
+    "duration_seconds": 454,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "reQA3HGCXMk",
+    "title": "Funcionamiento Básico del CRM de MasterTools 💻",
+    "publishedAt": "2021-08-30T23:55:42Z",
+    "duration": "PT12M13S",
+    "duration_seconds": 733,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "Czh4qie6suQ",
+    "title": "GESTOR DE TIENDA | ¿Cómo funciona el Gestor de Tienda de MasterTools?",
+    "publishedAt": "2021-08-30T23:54:49Z",
+    "duration": "PT10M41S",
+    "duration_seconds": 641,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "sV739vWzJtg",
+    "title": "Instala tu Píxel de Google en MasterTools",
+    "publishedAt": "2021-08-30T23:52:17Z",
+    "duration": "PT7M56S",
+    "duration_seconds": 476,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "-BFszHd1nns",
+    "title": "¿Cómo funciona el Creador de Funnels? ¡MÁS FÁCIL QUE NUNCA!",
+    "publishedAt": "2021-08-30T23:51:15Z",
+    "duration": "PT15M22S",
+    "duration_seconds": 922,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "QOprKA_aH-8",
+    "title": "Tipos de Funnels en MasterTools",
+    "publishedAt": "2021-08-30T23:50:23Z",
+    "duration": "PT8M20S",
+    "duration_seconds": 500,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "WevAPjHPX8U",
+    "title": "¿Cómo subir videos a Funnel ? | Video Tutorial",
+    "publishedAt": "2021-08-30T23:41:36Z",
+    "duration": "PT5M39S",
+    "duration_seconds": 339,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "Y8zKgM-rEIo",
+    "title": "¿Cómo crear Citas en tu CRM de MasterTools?",
+    "publishedAt": "2021-08-30T23:41:11Z",
+    "duration": "PT11M55S",
+    "duration_seconds": 715,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "7F5gEMjmL-c",
+    "title": "BARRA DE HERRAMIENTAS",
+    "publishedAt": "2021-08-30T23:40:33Z",
+    "duration": "PT7M57S",
+    "duration_seconds": 477,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "-wsflR2Ae3U",
+    "title": "Atajos en mi Funnel | Copia tus páginas a otro embudo",
+    "publishedAt": "2021-08-30T23:40:02Z",
+    "duration": "PT3M36S",
+    "duration_seconds": 216,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "WQMP3tjvcQ0",
+    "title": "Implementa el A/B Test en tus Funnels de MasterTools",
+    "publishedAt": "2021-08-30T23:39:01Z",
+    "duration": "PT10M51S",
+    "duration_seconds": 651,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "DAl1k4v8y2k",
+    "title": "5  Faltan 3 dias 1 1",
+    "publishedAt": "2021-08-30T21:14:22Z",
+    "duration": "PT44S",
+    "duration_seconds": 44,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "GuBE6UmT35c",
+    "title": "¡Todo lo que Obtendrás dentro de MasterTools!",
+    "publishedAt": "2021-08-30T21:12:26Z",
+    "duration": "PT1M42S",
+    "duration_seconds": 102,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "vHczVUyCzX8",
+    "title": "3  Recopilacion Oferta 1 1",
+    "publishedAt": "2021-08-30T21:04:41Z",
+    "duration": "PT1M42S",
+    "duration_seconds": 102,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "CQn4zptrcZw",
+    "title": "La táctica que uso para evitar los BLOQUEOS de Facebook en productos del nicho del dinero",
+    "publishedAt": "2021-08-30T01:00:21Z",
+    "duration": "PT44M54S",
+    "duration_seconds": 2694,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "bTmDyynl2j4",
+    "title": "7  Falta 1 dia 16 9",
+    "publishedAt": "2021-08-29T23:24:44Z",
+    "duration": "PT50S",
+    "duration_seconds": 50,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "cOEOBaVTlt4",
+    "title": "7  Falta 1 dia 1 1",
+    "publishedAt": "2021-08-29T23:24:38Z",
+    "duration": "PT50S",
+    "duration_seconds": 50,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "be30K1cQWTw",
+    "title": "Lanzamiento de MasterTools | Llegó el momento de usar lo que SÍ funciona",
+    "publishedAt": "2021-09-01T03:19:50Z",
+    "duration": "PT2H7M11S",
+    "duration_seconds": 7631,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "JL-xg3wOsAw",
+    "title": "Cómo ganar la placa de los 100K aún si no estás en BeMaster (Nueva Oportunidad Revelada)",
+    "publishedAt": "2021-08-31T00:46:23Z",
+    "duration": "PT42M19S",
+    "duration_seconds": 2539,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "CQn4zptrcZw",
+    "title": "La táctica que uso para evitar los BLOQUEOS de Facebook en productos del nicho del dinero",
+    "publishedAt": "2021-08-30T01:00:21Z",
+    "duration": "PT44M54S",
+    "duration_seconds": 2694,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "HxIfgeHHlrc",
+    "title": "Bonus de MasterTools | Lanzamiento",
+    "publishedAt": "2021-08-29T23:24:16Z",
+    "duration": "PT1M2S",
+    "duration_seconds": 62,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "UhLsNCvCE9w",
+    "title": "4  Bonus 1 1",
+    "publishedAt": "2021-08-29T23:24:09Z",
+    "duration": "PT1M2S",
+    "duration_seconds": 62,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "xAiQjGCCkAk",
+    "title": "¿Qué Pasó? Te estamos Esperando | MasterTools",
+    "publishedAt": "2021-08-29T23:24:00Z",
+    "duration": "PT1M20S",
+    "duration_seconds": 80,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "O9qjpgiP2QM",
+    "title": "2  Abandona carrito Soporte 1 1",
+    "publishedAt": "2021-08-29T23:23:51Z",
+    "duration": "PT1M20S",
+    "duration_seconds": 80,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "pv0UbWZ2EjU",
+    "title": "¿Tienes Preguntas? El equipo de soporte esta esperándote | MasterTools",
+    "publishedAt": "2021-08-29T23:23:44Z",
+    "duration": "PT55S",
+    "duration_seconds": 55,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "_8fkooiT_Hc",
+    "title": "1  Soporte 1 1",
+    "publishedAt": "2021-08-29T23:23:36Z",
+    "duration": "PT55S",
+    "duration_seconds": 55,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "KuHJe0ZJwCQ",
+    "title": "8  Ultimas horas 16 9",
+    "publishedAt": "2021-08-29T23:23:31Z",
+    "duration": "PT40S",
+    "duration_seconds": 40,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "zNgD3h1rTuo",
+    "title": "8  Ultimas horas 1 1",
+    "publishedAt": "2021-08-29T23:23:25Z",
+    "duration": "PT40S",
+    "duration_seconds": 40,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "A6GW7xFLgPI",
+    "title": "Venta de productos físicos | La nueva metodología que te hará TRIPLICAR  tus ventas",
+    "publishedAt": "2021-08-29T01:04:02Z",
+    "duration": "PT59M9S",
+    "duration_seconds": 3549,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "5bhvvEO4LTw",
+    "title": "3 DÍAS PARA EL LANZAMIENTO DE MASTERTOOLS 🚀",
+    "publishedAt": "2021-08-28T15:47:51Z",
+    "duration": "PT15S",
+    "duration_seconds": 15,
+    "type": "short",
+    "privacy": "public"
+  },
+  {
+    "id": "UylVfojZaJM",
+    "title": "5  FALTAN 3 DIAS 1 1",
+    "publishedAt": "2021-08-28T02:52:07Z",
+    "duration": "PT38S",
+    "duration_seconds": 38,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "iBUin6QAZKQ",
+    "title": "5  FALTAN 3 DIAS 16 9",
+    "publishedAt": "2021-08-28T02:52:03Z",
+    "duration": "PT38S",
+    "duration_seconds": 38,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "uG4eTZeaNTs",
+    "title": "No más correos en SPAM: Haz esto para que lleguen a la bandeja de entrada de TUS CLIENTES",
+    "publishedAt": "2021-08-27T01:21:05Z",
+    "duration": "PT1H16M55S",
+    "duration_seconds": 4615,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "s4X--6gac4M",
+    "title": "Cómo crear tu ecosistema de ventas SIN tener que pagar de más",
+    "publishedAt": "2021-08-26T00:56:09Z",
+    "duration": "PT48M1S",
+    "duration_seconds": 2881,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "yJnwcqyozvY",
+    "title": "BIENVENIDA  A TOOTORIALES",
+    "publishedAt": "2021-08-25T23:59:48Z",
+    "duration": "PT53S",
+    "duration_seconds": 53,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "DZKIggw71IA",
+    "title": "4  Live 26 16 9",
+    "publishedAt": "2021-08-25T01:52:56Z",
+    "duration": "PT1M",
+    "duration_seconds": 60,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "_701gMu5oxo",
+    "title": "4  Live 26 1 1",
+    "publishedAt": "2021-08-25T01:52:48Z",
+    "duration": "PT1M",
+    "duration_seconds": 60,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "IoPtHwhqUAM",
+    "title": "3  Live 25 16 9",
+    "publishedAt": "2021-08-25T01:52:42Z",
+    "duration": "PT53S",
+    "duration_seconds": 53,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "MM1IGjjLIIM",
+    "title": "3  Live 25 1 1",
+    "publishedAt": "2021-08-25T01:52:34Z",
+    "duration": "PT53S",
+    "duration_seconds": 53,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "XmUzvMhV820",
+    "title": "El truco que te duplica la facturación de cualquier producto (lo implementas en menos de 5 minutos)",
+    "publishedAt": "2021-08-25T01:48:37Z",
+    "duration": "PT1H20M1S",
+    "duration_seconds": 4801,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "uleVMxYoOmo",
+    "title": "¡ATENCIÓN COMUNIDAD MASTERTOOLS!",
+    "publishedAt": "2021-08-24T23:12:47Z",
+    "duration": "PT4M54S",
+    "duration_seconds": 294,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "42AZNnbNuTQ",
+    "title": "2  Live 24 1 1",
+    "publishedAt": "2021-08-24T16:42:21Z",
+    "duration": "PT1M40S",
+    "duration_seconds": 100,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "4mFaoMYauPY",
+    "title": "2  Live 24 16 9",
+    "publishedAt": "2021-08-24T16:42:05Z",
+    "duration": "PT1M40S",
+    "duration_seconds": 100,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "GFN0GUIRRA8",
+    "title": "¿Aún no vendes en Hotmart? Este es el “funnel” que tienes que utilizar para hacer tu PRIMERA VENTA",
+    "publishedAt": "2021-08-24T02:47:21Z",
+    "duration": "PT51M18S",
+    "duration_seconds": 3078,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "3uBk5Ynw8Rk",
+    "title": "8  Sable de luz 1 1",
+    "publishedAt": "2021-08-23T21:30:52Z",
+    "duration": "PT50S",
+    "duration_seconds": 50,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "xFSLgF8h8xQ",
+    "title": "8  Sable de luz 16 9",
+    "publishedAt": "2021-08-23T21:30:45Z",
+    "duration": "PT50S",
+    "duration_seconds": 50,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "VjoAHxeGniA",
+    "title": "Funnel en 10 minutos y claves para ecommerce | Tips pro para marketers eficientes",
+    "publishedAt": "2021-08-22T00:25:38Z",
+    "duration": "PT2H10M23S",
+    "duration_seconds": 7823,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "HLVzO8s9e88",
+    "title": "1  Agendalo en Calendario 1 1",
+    "publishedAt": "2021-08-21T23:42:19Z",
+    "duration": "PT57S",
+    "duration_seconds": 57,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "-tiRVC7riDo",
+    "title": "1  Agendalo en Calendario 16 9",
+    "publishedAt": "2021-08-21T23:38:40Z",
+    "duration": "PT57S",
+    "duration_seconds": 57,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "cv6a2wTFTuc",
+    "title": "4  Les tengo una excelente noticia 1 1",
+    "publishedAt": "2021-08-21T17:16:35Z",
+    "duration": "PT1M16S",
+    "duration_seconds": 76,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "FLU34wsnUeY",
+    "title": "Atajos para principiantes en email marketing y funnels | Inicia fácil y rápido",
+    "publishedAt": "2021-08-21T02:10:11Z",
+    "duration": "PT2H9S",
+    "duration_seconds": 7209,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "q_djNwv_-9E",
+    "title": "Semana de Implementación del 23 al 31 de agosto - MasterTools",
+    "publishedAt": "2021-08-20T20:58:31Z",
+    "duration": "PT2M38S",
+    "duration_seconds": 158,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "h7arrEhs8Uw",
+    "title": "Email Marketing y Gatillos Mentales | Trucos infalibles para convertir más",
+    "publishedAt": "2021-08-20T14:37:05Z",
+    "duration": "PT1H53M43S",
+    "duration_seconds": 6823,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "0qgmTyViLYI",
+    "title": "Aumenta tus ventas dándole a tus clientes exactamente lo que buscan",
+    "publishedAt": "2021-08-20T11:10:16Z",
+    "duration": "PT1H1M55S",
+    "duration_seconds": 3715,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "OoD2ECFtsZw",
+    "title": "5  Estos Funnels facturan millones 16 9",
+    "publishedAt": "2021-08-20T01:10:20Z",
+    "duration": "PT44S",
+    "duration_seconds": 44,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "pC9ZUaQIjvI",
+    "title": "5  Estos Funnels facturan millones 1 1",
+    "publishedAt": "2021-08-20T01:10:11Z",
+    "duration": "PT44S",
+    "duration_seconds": 44,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "hyzq8KdmyNs",
+    "title": "4  Les tengo una excelente noticia 16 9",
+    "publishedAt": "2021-08-20T01:10:00Z",
+    "duration": "PT1M16S",
+    "duration_seconds": 76,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "eUiJ-WXZF2k",
+    "title": "6  Peleando con Herramientas 16 9",
+    "publishedAt": "2021-08-20T01:09:42Z",
+    "duration": "PT1M",
+    "duration_seconds": 60,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "uwkiZgSkOkU",
+    "title": "6  Peleando con Herramientas 1 1",
+    "publishedAt": "2021-08-20T01:09:35Z",
+    "duration": "PT1M",
+    "duration_seconds": 60,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "Nb-qHPZJRiA",
+    "title": "Optimiza tu funnel e incrementa tus ventas",
+    "publishedAt": "2021-08-19T02:15:15Z",
+    "duration": "PT2H2M20S",
+    "duration_seconds": 7340,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "OKNZpmFRvJw",
+    "title": "3  Dolor de cabeza  16 9",
+    "publishedAt": "2021-08-18T20:31:40Z",
+    "duration": "PT34S",
+    "duration_seconds": 34,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "bDy3FO_dN20",
+    "title": "3  Dolor de cabeza  1 1",
+    "publishedAt": "2021-08-18T20:31:34Z",
+    "duration": "PT34S",
+    "duration_seconds": 34,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "MwM0RtWL5HY",
+    "title": "2  Sin vs con 1 1",
+    "publishedAt": "2021-08-18T04:01:27Z",
+    "duration": "PT18S",
+    "duration_seconds": 18,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "zShSt-UgVbk",
+    "title": "2  Sin vs con 16 9",
+    "publishedAt": "2021-08-18T04:00:32Z",
+    "duration": "PT18S",
+    "duration_seconds": 18,
+    "type": "short",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "A3X_J2Jla6I",
+    "title": "Cómo instalar el PIXEL DE FACEBOOK en MasterTools | Tutorial",
+    "publishedAt": "2021-08-12T22:05:20Z",
+    "duration": "PT6M26S",
+    "duration_seconds": 386,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "qrffUOh38SE",
+    "title": "¿Cómo adaptar Funnels a versión móvil con MasterTools? | Paso a paso",
+    "publishedAt": "2021-08-04T20:14:00Z",
+    "duration": "PT8M16S",
+    "duration_seconds": 496,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "XDrMfSCKTb8",
+    "title": "¿Cómo conectar un dominio en MasterTools? | Vídeo Tutorial",
+    "publishedAt": "2021-08-04T04:24:49Z",
+    "duration": "PT10M14S",
+    "duration_seconds": 614,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "EEEdlZ4bjnM",
+    "title": "¿Cómo funciona un Funnel de ventas dentro de MasterTools? | Paso a paso",
+    "publishedAt": "2021-08-04T03:43:14Z",
+    "duration": "PT10M48S",
+    "duration_seconds": 648,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "B95sZEmGmns",
+    "title": "¿Cómo funciona el creador de Funnels de MasterTools? | Tutorial explicativo",
+    "publishedAt": "2021-08-04T02:58:00Z",
+    "duration": "PT9M15S",
+    "duration_seconds": 555,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "tmLtk6cdxuc",
+    "title": "¿Cómo conectar  mi dominio? | Mastertools | Tutorial",
+    "publishedAt": "2021-07-21T15:18:39Z",
+    "duration": "PT7M2S",
+    "duration_seconds": 422,
+    "type": "normal",
+    "privacy": "public"
+  },
+  {
+    "id": "b84sLe3qEdc",
+    "title": "Cambiar idioma y contraseña | Mastertools | Tutorial",
+    "publishedAt": "2021-07-19T16:32:27Z",
+    "duration": "PT1M32S",
+    "duration_seconds": 92,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "LEDx9XHtpjM",
+    "title": "Introducción a la creación de sitios Web | Mastertools | Tutorial",
+    "publishedAt": "2021-07-10T21:57:16Z",
+    "duration": "PT9M50S",
+    "duration_seconds": 590,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "3UQ0jlzTM1M",
+    "title": "Descripción general Creación de su primer evento | Mastertools | Tutorial",
+    "publishedAt": "2021-07-10T21:45:18Z",
+    "duration": "PT9M47S",
+    "duration_seconds": 587,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "BmSqqCas7H0",
+    "title": "Agrega administradores al sitio web o embudo de su proyecto| Mastertools | Tutorial",
+    "publishedAt": "2021-07-10T21:23:02Z",
+    "duration": "PT2M",
+    "duration_seconds": 120,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "bQGAay9BDu8",
+    "title": "CRM |Administre clientes potenciales, ,envíos de formularios y etiquetas | Mastertools | Tutorial",
+    "publishedAt": "2021-07-10T21:17:50Z",
+    "duration": "PT4M50S",
+    "duration_seconds": 290,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "V5zGSc-dSnY",
+    "title": "Propiedades y etiquetas de configuración de CRM | Mastertools | Tutorial",
+    "publishedAt": "2021-07-10T21:14:09Z",
+    "duration": "PT6M14S",
+    "duration_seconds": 374,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "H9WAimsuYwM",
+    "title": "SEO en la página | Haga que sus páginas sean visibles para el mundo | Mastertools | Tutorial",
+    "publishedAt": "2021-07-10T21:10:23Z",
+    "duration": "PT5M36S",
+    "duration_seconds": 336,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "V6x9gxF8SvA",
+    "title": "Crear un nuevo proyecto | Mastertools | Tutorial",
+    "publishedAt": "2021-07-10T21:05:31Z",
+    "duration": "PT2M3S",
+    "duration_seconds": 123,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "UWcweKPfncE",
+    "title": "Edición Para Versión móvil | Mastertools | Tutorial",
+    "publishedAt": "2021-07-10T21:01:03Z",
+    "duration": "PT4M30S",
+    "duration_seconds": 270,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "wLVWZktrWkY",
+    "title": "Resumen de estilo global en Sitio Web| Mastertools | Tutorial",
+    "publishedAt": "2021-07-10T20:53:52Z",
+    "duration": "PT6M16S",
+    "duration_seconds": 376,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "bRLy-MQuOFQ",
+    "title": "¿Cómo agregar nuevas páginas a mi Sitio web? | Mastertools | tutorial",
+    "publishedAt": "2021-07-10T20:39:41Z",
+    "duration": "PT4M47S",
+    "duration_seconds": 287,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "O-u8X4NiD7k",
+    "title": "Controles de Funnel en Mastertools | Analitycs |",
+    "publishedAt": "2021-07-10T20:04:01Z",
+    "duration": "PT3M38S",
+    "duration_seconds": 218,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "a3XVYb2rLWs",
+    "title": "¿Cómo funciona un Funnel en Mastertools? | Basico | ¿Qué es un Funnel?",
+    "publishedAt": "2021-07-10T19:51:52Z",
+    "duration": "PT4M15S",
+    "duration_seconds": 255,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "wNm63oRX8sE",
+    "title": "Introducción a los Funnels en Mastertools | Básico | Tutorial",
+    "publishedAt": "2021-07-10T18:23:23Z",
+    "duration": "PT8M6S",
+    "duration_seconds": 486,
+    "type": "normal",
+    "privacy": "unlisted"
+  },
+  {
+    "id": "ykuAvjwV9oE",
+    "title": "¿Como realizar automatizaciones de más de 5 acciones?",
+    "publishedAt": "2025-05-19T21:38:25Z",
+    "duration": "PT2M42S",
+    "duration_seconds": 162,
+    "type": "normal",
+    "privacy": "private"
+  },
+  {
+    "id": "Ezzo8TC36_g",
+    "title": "¿Cómo Configurar Mi Automatización de Email ? | MasterTools",
+    "publishedAt": "2022-06-08T22:09:02Z",
+    "duration": "PT19M7S",
+    "duration_seconds": 1147,
+    "type": "normal",
+    "privacy": "private"
+  },
+  {
+    "id": "nJM9lOxJsL4",
+    "title": "¿Cómo Enviar Ebooks a mis Leads por Email & Automatizaciones?",
+    "publishedAt": "2022-06-01T22:56:42Z",
+    "duration": "PT13M57S",
+    "duration_seconds": 837,
+    "type": "normal",
+    "privacy": "private"
+  },
+  {
+    "id": "aSNonUXQaD8",
+    "title": "Cómo crear elementos flotantes en MasterTools | Trucos de CSS 💻",
+    "publishedAt": "2021-10-01T00:31:59Z",
+    "duration": "PT4M48S",
+    "duration_seconds": 288,
+    "type": "normal",
+    "privacy": "private"
+  },
+  {
+    "id": "sqDUCJef2dY",
+    "title": "¡COMIENZA DESAFÍO DE IMPLEMENTACIÓN LANZA TU SISTEMA DE VENTAS EN AUTOMÁTICO EN LOS PRÓXIMOS 28 DÍAS",
+    "publishedAt": "2021-09-08T21:45:55Z",
+    "duration": "PT18M20S",
+    "duration_seconds": 1100,
+    "type": "normal",
+    "privacy": "private"
+  },
+  {
+    "id": "23cgwM4OSHc",
+    "title": "¿CÓMO IDENTIFICAR TU AUDIENCIA IDEAL CON LA HERRAMIENTA LINK ANALYTICS DE MASTERTOOLS?",
+    "publishedAt": "2021-09-02T01:45:23Z",
+    "duration": "PT13M25S",
+    "duration_seconds": 805,
+    "type": "normal",
+    "privacy": "private"
+  },
+  {
+    "id": "trSHdwgXJZg",
+    "title": "CÓMO HACER UN A/B TEST CON LA HERRAMIENTA LINK ANALYTICS DE MASTERTOOLS",
+    "publishedAt": "2021-09-01T23:50:10Z",
+    "duration": "PT11M49S",
+    "duration_seconds": 709,
+    "type": "normal",
+    "privacy": "private"
+  },
+  {
+    "id": "TO20Pnassu0",
+    "title": "Crea tu Automatización PASO a PASO | MasterTools",
+    "publishedAt": "2021-08-14T00:00:17Z",
+    "duration": "PT14M4S",
+    "duration_seconds": 844,
+    "type": "normal",
+    "privacy": "private"
+  },
+  {
+    "id": "DCM3VhaUllE",
+    "title": "¿Cómo funciona la herramienta de Email Marketing de Mastertools?",
+    "publishedAt": "2021-08-13T17:59:05Z",
+    "duration": "PT20M21S",
+    "duration_seconds": 1221,
+    "type": "normal",
+    "privacy": "private"
+  },
+  {
+    "id": "yJLVWB7Cez0",
+    "title": "Cómo funciona Link Analytics | El acortador de links de Mastertools",
+    "publishedAt": "2021-08-13T05:28:40Z",
+    "duration": "PT20M48S",
+    "duration_seconds": 1248,
+    "type": "normal",
+    "privacy": "private"
+  },
+  {
+    "id": "u3IlggN6rQQ",
+    "title": null,
+    "publishedAt": null,
+    "duration": null,
+    "duration_seconds": null,
+    "type": null,
+    "privacy": "private_or_deleted_or_restricted",
+    "note": "private_or_deleted_or_restricted"
+  },
+  {
+    "id": "qDb5QlsIbUg",
+    "title": null,
+    "publishedAt": null,
+    "duration": null,
+    "duration_seconds": null,
+    "type": null,
+    "privacy": "private_or_deleted_or_restricted",
+    "note": "private_or_deleted_or_restricted"
+  },
+  {
+    "id": "s3g97b2HDpo",
+    "title": null,
+    "publishedAt": null,
+    "duration": null,
+    "duration_seconds": null,
+    "type": null,
+    "privacy": "private_or_deleted_or_restricted",
+    "note": "private_or_deleted_or_restricted"
+  }
+]
